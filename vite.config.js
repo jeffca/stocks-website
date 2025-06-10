@@ -11,6 +11,7 @@ export default defineConfig({
       '@': fileURLToPath(new URL('./src', import.meta.url))
     },
   },
+  base: '/stocks-website/',
   build: {
     outDir: 'docs',         // <-- Must be inside 'build'
     emptyOutDir: true
