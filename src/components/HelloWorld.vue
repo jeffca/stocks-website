@@ -1,4 +1,6 @@
 <script setup>
+import PriceChart from './PriceChart.vue'
+
 import { ref, onMounted } from 'vue'
 
 const data = ref(null)
@@ -30,25 +32,12 @@ onMounted(async () => {
   <div v-if="!loading">
     <div v-for="(rows, ticker) in grouped" :key="ticker" style="margin-bottom: 2em;">
       <h2>{{ ticker }}</h2>
-      <table>
-        <thead>
-          <tr>
-            <th>Date</th>
-            <th>Time</th>
-            <th>Price</th>
-            <th>Type of Day</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr v-for="row in rows" :key="row.timestamp">
-            <td>{{ row.date }}</td>
-            <td>{{ row.time }}</td>
-            <td>{{ row.price }}</td>
-            <td>{{ row.type_of_day }}</td>
-          </tr>
-        </tbody>
-      </table>
+      <PriceChart :rows="rows" />
+      <!-- You can keep the table if you want -->
+      
     </div>
   </div>
   <div v-else>Loading...</div>
 </template>
+
+
