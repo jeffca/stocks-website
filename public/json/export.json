@@ -2,6 +2,150 @@
     {
         "id": null,
         "ticker": "DAVE",
+        "date": "06-10-2025",
+        "time": "08:45:32\u202fAM",
+        "price": 227.32,
+        "timestamp": "06-10-2025 at 08:45:32\u202fAM",
+        "type_of_day": 1
+    },
+    {
+        "id": null,
+        "ticker": "CVNA",
+        "date": "06-10-2025",
+        "time": "08:45:32\u202fAM",
+        "price": 343.8,
+        "timestamp": "06-10-2025 at 08:45:32\u202fAM",
+        "type_of_day": 1
+    },
+    {
+        "id": null,
+        "ticker": "CGC",
+        "date": "06-10-2025",
+        "time": "08:45:32\u202fAM",
+        "price": 1.54,
+        "timestamp": "06-10-2025 at 08:45:32\u202fAM",
+        "type_of_day": 1
+    },
+    {
+        "id": null,
+        "ticker": "CMG",
+        "date": "06-10-2025",
+        "time": "08:45:32\u202fAM",
+        "price": 51.0,
+        "timestamp": "06-10-2025 at 08:45:32\u202fAM",
+        "type_of_day": 1
+    },
+    {
+        "id": null,
+        "ticker": "PLTR",
+        "date": "06-10-2025",
+        "time": "08:45:32\u202fAM",
+        "price": 133.46,
+        "timestamp": "06-10-2025 at 08:45:32\u202fAM",
+        "type_of_day": 1
+    },
+    {
+        "id": null,
+        "ticker": "XMTR",
+        "date": "06-10-2025",
+        "time": "08:45:32\u202fAM",
+        "price": 33.79,
+        "timestamp": "06-10-2025 at 08:45:32\u202fAM",
+        "type_of_day": 1
+    },
+    {
+        "id": null,
+        "ticker": "MCD",
+        "date": "06-10-2025",
+        "time": "08:45:32\u202fAM",
+        "price": 300.89,
+        "timestamp": "06-10-2025 at 08:45:32\u202fAM",
+        "type_of_day": 1
+    },
+    {
+        "id": null,
+        "ticker": "DNUT",
+        "date": "06-10-2025",
+        "time": "08:45:32\u202fAM",
+        "price": 3.01,
+        "timestamp": "06-10-2025 at 08:45:32\u202fAM",
+        "type_of_day": 1
+    },
+    {
+        "id": null,
+        "ticker": "SFM",
+        "date": "06-10-2025",
+        "time": "08:45:32\u202fAM",
+        "price": 166.63,
+        "timestamp": "06-10-2025 at 08:45:32\u202fAM",
+        "type_of_day": 1
+    },
+    {
+        "id": null,
+        "ticker": "LUMN",
+        "date": "06-10-2025",
+        "time": "08:45:32\u202fAM",
+        "price": 4.14,
+        "timestamp": "06-10-2025 at 08:45:32\u202fAM",
+        "type_of_day": 1
+    },
+    {
+        "id": null,
+        "ticker": "RCL",
+        "date": "06-10-2025",
+        "time": "08:45:32\u202fAM",
+        "price": 273.24,
+        "timestamp": "06-10-2025 at 08:45:32\u202fAM",
+        "type_of_day": 1
+    },
+    {
+        "id": null,
+        "ticker": "ZS",
+        "date": "06-10-2025",
+        "time": "08:45:32\u202fAM",
+        "price": 302.69,
+        "timestamp": "06-10-2025 at 08:45:32\u202fAM",
+        "type_of_day": 1
+    },
+    {
+        "id": null,
+        "ticker": "TLRY",
+        "date": "06-10-2025",
+        "time": "08:45:32\u202fAM",
+        "price": 0.41,
+        "timestamp": "06-10-2025 at 08:45:32\u202fAM",
+        "type_of_day": 1
+    },
+    {
+        "id": null,
+        "ticker": "PTON",
+        "date": "06-10-2025",
+        "time": "08:45:32\u202fAM",
+        "price": 7.6,
+        "timestamp": "06-10-2025 at 08:45:32\u202fAM",
+        "type_of_day": 1
+    },
+    {
+        "id": null,
+        "ticker": "DASH",
+        "date": "06-10-2025",
+        "time": "08:45:32\u202fAM",
+        "price": 218.6,
+        "timestamp": "06-10-2025 at 08:45:32\u202fAM",
+        "type_of_day": 1
+    },
+    {
+        "id": null,
+        "ticker": "OPEN",
+        "date": "06-10-2025",
+        "time": "08:45:32\u202fAM",
+        "price": 0.6,
+        "timestamp": "06-10-2025 at 08:45:32\u202fAM",
+        "type_of_day": 1
+    },
+    {
+        "id": null,
+        "ticker": "DAVE",
         "date": "06-09-2025",
         "time": "10:27:39\u202fAM",
         "price": 219.33,
@@ -2588,24 +2732,6 @@
         "date": "06-04-2025",
         "time": "04:13:49\u202fPM",
         "price": 0.63,
-        "timestamp": "06-04-2025 at 04:13:49\u202fPM",
-        "type_of_day": 6
-    },
-    {
-        "id": null,
-        "ticker": "MBLY",
-        "date": "06-04-2025",
-        "time": "04:13:49\u202fPM",
-        "price": 16.78,
-        "timestamp": "06-04-2025 at 04:13:49\u202fPM",
-        "type_of_day": 6
-    },
-    {
-        "id": null,
-        "ticker": "MP",
-        "date": "06-04-2025",
-        "time": "04:13:49\u202fPM",
-        "price": 24.58,
         "timestamp": "06-04-2025 at 04:13:49\u202fPM",
         "type_of_day": 6
     }

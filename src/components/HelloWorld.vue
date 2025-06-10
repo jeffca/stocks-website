@@ -29,15 +29,19 @@ onMounted(async () => {
 })
 </script>
 <template>
-  <div v-if="!loading">
+  <div v-if="!loading" class="charts">
     <div v-for="(rows, ticker) in grouped" :key="ticker" style="margin-bottom: 2em;">
       <h2>{{ ticker }}</h2>
-      <PriceChart :rows="rows" />
-      <!-- You can keep the table if you want -->
-      
+      <PriceChart :rows="rows" />     
     </div>
   </div>
   <div v-else>Loading...</div>
 </template>
 
+<style scoped>
+  .charts {
+    max-width: 45em;
+  }
 
+
+</style>
