@@ -15,7 +15,7 @@ function groupByTicker(array) {
 
 onMounted(async () => {
   try {
-    const response = await fetch('/json/export.json')
+    const response = await fetch(`${import.meta.env.BASE_URL}json/export.json`)
     const result = await response.json()
     data.value = result
     grouped.value = groupByTicker(result)
