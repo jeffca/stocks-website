@@ -1,0 +1,11 @@
+@import './base.css';
+
+body {
+    background-color: rgb(14, 3, 26);
+    color: white;
+}
+
+.price-chart {
+  width: 100%;
+  min-height: 400px; /* Increase height */
+}
