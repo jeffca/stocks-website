@@ -66,10 +66,9 @@ onMounted(async () => {
   width: 100%;
   max-width: 1200px; /* or whatever fits your layout */
 }
+
 .charts {
-  max-width: 900px;  /* Increase this value */
-  width: 100%;
-  margin: 0 auto;
+  width: 550px;
 }
 
   .charts canvas {
