@@ -2,6 +2,3966 @@
     {
         "id": null,
         "ticker": "DAVE",
+        "date": "08-04-2025",
+        "time": "08:47:54\u202fAM",
+        "price": 234.73,
+        "timestamp": "08-04-2025 at 08:47:54\u202fAM",
+        "type_of_day": 1
+    },
+    {
+        "id": null,
+        "ticker": "CVNA",
+        "date": "08-04-2025",
+        "time": "08:47:54\u202fAM",
+        "price": 364.98,
+        "timestamp": "08-04-2025 at 08:47:54\u202fAM",
+        "type_of_day": 1
+    },
+    {
+        "id": null,
+        "ticker": "CGC",
+        "date": "08-04-2025",
+        "time": "08:47:54\u202fAM",
+        "price": 1.1,
+        "timestamp": "08-04-2025 at 08:47:54\u202fAM",
+        "type_of_day": 1
+    },
+    {
+        "id": null,
+        "ticker": "CMG",
+        "date": "08-04-2025",
+        "time": "08:47:54\u202fAM",
+        "price": 42.39,
+        "timestamp": "08-04-2025 at 08:47:54\u202fAM",
+        "type_of_day": 1
+    },
+    {
+        "id": null,
+        "ticker": "PLTR",
+        "date": "08-04-2025",
+        "time": "08:47:54\u202fAM",
+        "price": 159.8,
+        "timestamp": "08-04-2025 at 08:47:54\u202fAM",
+        "type_of_day": 1
+    },
+    {
+        "id": null,
+        "ticker": "XMTR",
+        "date": "08-04-2025",
+        "time": "08:47:54\u202fAM",
+        "price": 31.74,
+        "timestamp": "08-04-2025 at 08:47:54\u202fAM",
+        "type_of_day": 1
+    },
+    {
+        "id": null,
+        "ticker": "MCD",
+        "date": "08-04-2025",
+        "time": "08:47:54\u202fAM",
+        "price": 303.59,
+        "timestamp": "08-04-2025 at 08:47:54\u202fAM",
+        "type_of_day": 1
+    },
+    {
+        "id": null,
+        "ticker": "DNUT",
+        "date": "08-04-2025",
+        "time": "08:47:54\u202fAM",
+        "price": 3.53,
+        "timestamp": "08-04-2025 at 08:47:54\u202fAM",
+        "type_of_day": 1
+    },
+    {
+        "id": null,
+        "ticker": "SFM",
+        "date": "08-04-2025",
+        "time": "08:47:54\u202fAM",
+        "price": 158.25,
+        "timestamp": "08-04-2025 at 08:47:54\u202fAM",
+        "type_of_day": 1
+    },
+    {
+        "id": null,
+        "ticker": "LUMN",
+        "date": "08-04-2025",
+        "time": "08:47:54\u202fAM",
+        "price": 3.84,
+        "timestamp": "08-04-2025 at 08:47:54\u202fAM",
+        "type_of_day": 1
+    },
+    {
+        "id": null,
+        "ticker": "RCL",
+        "date": "08-04-2025",
+        "time": "08:47:54\u202fAM",
+        "price": 314.51,
+        "timestamp": "08-04-2025 at 08:47:54\u202fAM",
+        "type_of_day": 1
+    },
+    {
+        "id": null,
+        "ticker": "ZS",
+        "date": "08-04-2025",
+        "time": "08:47:54\u202fAM",
+        "price": 283.95,
+        "timestamp": "08-04-2025 at 08:47:54\u202fAM",
+        "type_of_day": 1
+    },
+    {
+        "id": null,
+        "ticker": "TLRY",
+        "date": "08-04-2025",
+        "time": "08:47:54\u202fAM",
+        "price": 0.6,
+        "timestamp": "08-04-2025 at 08:47:54\u202fAM",
+        "type_of_day": 1
+    },
+    {
+        "id": null,
+        "ticker": "PTON",
+        "date": "08-04-2025",
+        "time": "08:47:54\u202fAM",
+        "price": 6.74,
+        "timestamp": "08-04-2025 at 08:47:54\u202fAM",
+        "type_of_day": 1
+    },
+    {
+        "id": null,
+        "ticker": "DASH",
+        "date": "08-04-2025",
+        "time": "08:47:54\u202fAM",
+        "price": 252.77,
+        "timestamp": "08-04-2025 at 08:47:54\u202fAM",
+        "type_of_day": 1
+    },
+    {
+        "id": null,
+        "ticker": "OPEN",
+        "date": "08-04-2025",
+        "time": "08:47:54\u202fAM",
+        "price": 2.29,
+        "timestamp": "08-04-2025 at 08:47:54\u202fAM",
+        "type_of_day": 1
+    },
+    {
+        "id": null,
+        "ticker": "MBLY",
+        "date": "08-04-2025",
+        "time": "08:47:54\u202fAM",
+        "price": 14.06,
+        "timestamp": "08-04-2025 at 08:47:54\u202fAM",
+        "type_of_day": 1
+    },
+    {
+        "id": null,
+        "ticker": "MP",
+        "date": "08-04-2025",
+        "time": "08:47:54\u202fAM",
+        "price": 64.75,
+        "timestamp": "08-04-2025 at 08:47:54\u202fAM",
+        "type_of_day": 1
+    },
+    {
+        "id": null,
+        "ticker": "LULU",
+        "date": "08-04-2025",
+        "time": "08:47:54\u202fAM",
+        "price": 195.76,
+        "timestamp": "08-04-2025 at 08:47:54\u202fAM",
+        "type_of_day": 1
+    },
+    {
+        "id": null,
+        "ticker": "JPM",
+        "date": "08-04-2025",
+        "time": "08:47:54\u202fAM",
+        "price": 292.65,
+        "timestamp": "08-04-2025 at 08:47:54\u202fAM",
+        "type_of_day": 1
+    },
+    {
+        "id": null,
+        "ticker": "KO",
+        "date": "08-04-2025",
+        "time": "08:47:54\u202fAM",
+        "price": 68.46,
+        "timestamp": "08-04-2025 at 08:47:54\u202fAM",
+        "type_of_day": 1
+    },
+    {
+        "id": null,
+        "ticker": "CVX",
+        "date": "08-04-2025",
+        "time": "08:47:54\u202fAM",
+        "price": 151.72,
+        "timestamp": "08-04-2025 at 08:47:54\u202fAM",
+        "type_of_day": 1
+    },
+    {
+        "id": null,
+        "ticker": "VLO",
+        "date": "08-04-2025",
+        "time": "08:47:54\u202fAM",
+        "price": 133.68,
+        "timestamp": "08-04-2025 at 08:47:54\u202fAM",
+        "type_of_day": 1
+    },
+    {
+        "id": null,
+        "ticker": "TSLA",
+        "date": "08-04-2025",
+        "time": "08:47:54\u202fAM",
+        "price": 308.36,
+        "timestamp": "08-04-2025 at 08:47:54\u202fAM",
+        "type_of_day": 1
+    },
+    {
+        "id": null,
+        "ticker": "MSTR",
+        "date": "08-04-2025",
+        "time": "08:47:54\u202fAM",
+        "price": 372.02,
+        "timestamp": "08-04-2025 at 08:47:54\u202fAM",
+        "type_of_day": 1
+    },
+    {
+        "id": null,
+        "ticker": "WMT",
+        "date": "08-04-2025",
+        "time": "08:47:54\u202fAM",
+        "price": 99.22,
+        "timestamp": "08-04-2025 at 08:47:54\u202fAM",
+        "type_of_day": 1
+    },
+    {
+        "id": null,
+        "ticker": "ROST",
+        "date": "08-04-2025",
+        "time": "08:47:54\u202fAM",
+        "price": 139.33,
+        "timestamp": "08-04-2025 at 08:47:54\u202fAM",
+        "type_of_day": 1
+    },
+    {
+        "id": null,
+        "ticker": "BLK",
+        "date": "08-04-2025",
+        "time": "08:47:54\u202fAM",
+        "price": 1100.18,
+        "timestamp": "08-04-2025 at 08:47:54\u202fAM",
+        "type_of_day": 1
+    },
+    {
+        "id": null,
+        "ticker": "META",
+        "date": "08-04-2025",
+        "time": "08:47:54\u202fAM",
+        "price": 765.8,
+        "timestamp": "08-04-2025 at 08:47:54\u202fAM",
+        "type_of_day": 1
+    },
+    {
+        "id": null,
+        "ticker": "LYFT",
+        "date": "08-04-2025",
+        "time": "08:47:54\u202fAM",
+        "price": 14.07,
+        "timestamp": "08-04-2025 at 08:47:54\u202fAM",
+        "type_of_day": 1
+    },
+    {
+        "id": null,
+        "ticker": "UBER",
+        "date": "08-04-2025",
+        "time": "08:47:54\u202fAM",
+        "price": 88.24,
+        "timestamp": "08-04-2025 at 08:47:54\u202fAM",
+        "type_of_day": 1
+    },
+    {
+        "id": null,
+        "ticker": "PLUG",
+        "date": "08-04-2025",
+        "time": "08:47:54\u202fAM",
+        "price": 1.48,
+        "timestamp": "08-04-2025 at 08:47:54\u202fAM",
+        "type_of_day": 1
+    },
+    {
+        "id": null,
+        "ticker": "RGTI",
+        "date": "08-04-2025",
+        "time": "08:47:54\u202fAM",
+        "price": 15.47,
+        "timestamp": "08-04-2025 at 08:47:54\u202fAM",
+        "type_of_day": 1
+    },
+    {
+        "id": null,
+        "ticker": "BB",
+        "date": "08-04-2025",
+        "time": "08:47:54\u202fAM",
+        "price": 3.79,
+        "timestamp": "08-04-2025 at 08:47:54\u202fAM",
+        "type_of_day": 1
+    },
+    {
+        "id": null,
+        "ticker": "TLN",
+        "date": "08-04-2025",
+        "time": "08:47:54\u202fAM",
+        "price": 387.11,
+        "timestamp": "08-04-2025 at 08:47:54\u202fAM",
+        "type_of_day": 1
+    },
+    {
+        "id": null,
+        "ticker": "BBAI",
+        "date": "08-04-2025",
+        "time": "08:47:54\u202fAM",
+        "price": 7.08,
+        "timestamp": "08-04-2025 at 08:47:54\u202fAM",
+        "type_of_day": 1
+    },
+    {
+        "id": null,
+        "ticker": "SOUN",
+        "date": "08-04-2025",
+        "time": "08:47:54\u202fAM",
+        "price": 10.48,
+        "timestamp": "08-04-2025 at 08:47:54\u202fAM",
+        "type_of_day": 1
+    },
+    {
+        "id": null,
+        "ticker": "SOFI",
+        "date": "08-04-2025",
+        "time": "08:47:54\u202fAM",
+        "price": 21.17,
+        "timestamp": "08-04-2025 at 08:47:54\u202fAM",
+        "type_of_day": 1
+    },
+    {
+        "id": null,
+        "ticker": "LUV",
+        "date": "08-04-2025",
+        "time": "08:47:54\u202fAM",
+        "price": 29.96,
+        "timestamp": "08-04-2025 at 08:47:54\u202fAM",
+        "type_of_day": 1
+    },
+    {
+        "id": null,
+        "ticker": "AAL",
+        "date": "08-04-2025",
+        "time": "08:47:54\u202fAM",
+        "price": 11.28,
+        "timestamp": "08-04-2025 at 08:47:54\u202fAM",
+        "type_of_day": 1
+    },
+    {
+        "id": null,
+        "ticker": "AXP",
+        "date": "08-04-2025",
+        "time": "08:47:54\u202fAM",
+        "price": 297.25,
+        "timestamp": "08-04-2025 at 08:47:54\u202fAM",
+        "type_of_day": 1
+    },
+    {
+        "id": null,
+        "ticker": "TEAM",
+        "date": "08-04-2025",
+        "time": "08:47:54\u202fAM",
+        "price": 185.36,
+        "timestamp": "08-04-2025 at 08:47:54\u202fAM",
+        "type_of_day": 1
+    },
+    {
+        "id": null,
+        "ticker": "CMG",
+        "date": "08-04-2025",
+        "time": "08:47:54\u202fAM",
+        "price": 42.39,
+        "timestamp": "08-04-2025 at 08:47:54\u202fAM",
+        "type_of_day": 1
+    },
+    {
+        "id": null,
+        "ticker": "MDB",
+        "date": "08-04-2025",
+        "time": "08:47:54\u202fAM",
+        "price": 227.86,
+        "timestamp": "08-04-2025 at 08:47:54\u202fAM",
+        "type_of_day": 1
+    },
+    {
+        "id": null,
+        "ticker": "SG",
+        "date": "08-04-2025",
+        "time": "08:47:54\u202fAM",
+        "price": 12.08,
+        "timestamp": "08-04-2025 at 08:47:54\u202fAM",
+        "type_of_day": 1
+    },
+    {
+        "id": null,
+        "ticker": "KO",
+        "date": "08-04-2025",
+        "time": "08:47:54\u202fAM",
+        "price": 68.46,
+        "timestamp": "08-04-2025 at 08:47:54\u202fAM",
+        "type_of_day": 1
+    },
+    {
+        "id": null,
+        "ticker": "COST",
+        "date": "08-04-2025",
+        "time": "08:47:54\u202fAM",
+        "price": 953.19,
+        "timestamp": "08-04-2025 at 08:47:54\u202fAM",
+        "type_of_day": 1
+    },
+    {
+        "id": null,
+        "ticker": "GDDY",
+        "date": "08-04-2025",
+        "time": "08:47:54\u202fAM",
+        "price": 157.8,
+        "timestamp": "08-04-2025 at 08:47:54\u202fAM",
+        "type_of_day": 1
+    },
+    {
+        "id": null,
+        "ticker": "MAR",
+        "date": "08-04-2025",
+        "time": "08:47:54\u202fAM",
+        "price": 256.28,
+        "timestamp": "08-04-2025 at 08:47:54\u202fAM",
+        "type_of_day": 1
+    },
+    {
+        "id": null,
+        "ticker": "ALK",
+        "date": "08-04-2025",
+        "time": "08:47:54\u202fAM",
+        "price": 52.0,
+        "timestamp": "08-04-2025 at 08:47:54\u202fAM",
+        "type_of_day": 1
+    },
+    {
+        "id": null,
+        "ticker": "UAL",
+        "date": "08-04-2025",
+        "time": "08:47:54\u202fAM",
+        "price": 86.38,
+        "timestamp": "08-04-2025 at 08:47:54\u202fAM",
+        "type_of_day": 1
+    },
+    {
+        "id": null,
+        "ticker": "ZG",
+        "date": "08-04-2025",
+        "time": "08:47:54\u202fAM",
+        "price": 78.74,
+        "timestamp": "08-04-2025 at 08:47:54\u202fAM",
+        "type_of_day": 1
+    },
+    {
+        "id": null,
+        "ticker": "V",
+        "date": "08-04-2025",
+        "time": "08:47:54\u202fAM",
+        "price": 341.09,
+        "timestamp": "08-04-2025 at 08:47:54\u202fAM",
+        "type_of_day": 1
+    },
+    {
+        "id": null,
+        "ticker": "LYV",
+        "date": "08-04-2025",
+        "time": "08:47:54\u202fAM",
+        "price": 148.45,
+        "timestamp": "08-04-2025 at 08:47:54\u202fAM",
+        "type_of_day": 1
+    },
+    {
+        "id": null,
+        "ticker": "KRG",
+        "date": "08-04-2025",
+        "time": "08:47:54\u202fAM",
+        "price": 21.7,
+        "timestamp": "08-04-2025 at 08:47:54\u202fAM",
+        "type_of_day": 1
+    },
+    {
+        "id": null,
+        "ticker": "DAVE",
+        "date": "08-04-2025",
+        "time": "09:11:21\u202fAM",
+        "price": 236.41,
+        "timestamp": "08-04-2025 at 09:11:21\u202fAM",
+        "type_of_day": 2
+    },
+    {
+        "id": null,
+        "ticker": "CVNA",
+        "date": "08-04-2025",
+        "time": "09:11:21\u202fAM",
+        "price": 356.7,
+        "timestamp": "08-04-2025 at 09:11:21\u202fAM",
+        "type_of_day": 2
+    },
+    {
+        "id": null,
+        "ticker": "CGC",
+        "date": "08-04-2025",
+        "time": "09:11:21\u202fAM",
+        "price": 1.08,
+        "timestamp": "08-04-2025 at 09:11:21\u202fAM",
+        "type_of_day": 2
+    },
+    {
+        "id": null,
+        "ticker": "CMG",
+        "date": "08-04-2025",
+        "time": "09:11:21\u202fAM",
+        "price": 42.57,
+        "timestamp": "08-04-2025 at 09:11:21\u202fAM",
+        "type_of_day": 2
+    },
+    {
+        "id": null,
+        "ticker": "PLTR",
+        "date": "08-04-2025",
+        "time": "09:11:21\u202fAM",
+        "price": 159.25,
+        "timestamp": "08-04-2025 at 09:11:21\u202fAM",
+        "type_of_day": 2
+    },
+    {
+        "id": null,
+        "ticker": "XMTR",
+        "date": "08-04-2025",
+        "time": "09:11:21\u202fAM",
+        "price": 31.79,
+        "timestamp": "08-04-2025 at 09:11:21\u202fAM",
+        "type_of_day": 2
+    },
+    {
+        "id": null,
+        "ticker": "MCD",
+        "date": "08-04-2025",
+        "time": "09:11:21\u202fAM",
+        "price": 304.73,
+        "timestamp": "08-04-2025 at 09:11:21\u202fAM",
+        "type_of_day": 2
+    },
+    {
+        "id": null,
+        "ticker": "DNUT",
+        "date": "08-04-2025",
+        "time": "09:11:21\u202fAM",
+        "price": 3.58,
+        "timestamp": "08-04-2025 at 09:11:21\u202fAM",
+        "type_of_day": 2
+    },
+    {
+        "id": null,
+        "ticker": "SFM",
+        "date": "08-04-2025",
+        "time": "09:11:21\u202fAM",
+        "price": 159.35,
+        "timestamp": "08-04-2025 at 09:11:21\u202fAM",
+        "type_of_day": 2
+    },
+    {
+        "id": null,
+        "ticker": "LUMN",
+        "date": "08-04-2025",
+        "time": "09:11:21\u202fAM",
+        "price": 3.7,
+        "timestamp": "08-04-2025 at 09:11:21\u202fAM",
+        "type_of_day": 2
+    },
+    {
+        "id": null,
+        "ticker": "RCL",
+        "date": "08-04-2025",
+        "time": "09:11:21\u202fAM",
+        "price": 314.7,
+        "timestamp": "08-04-2025 at 09:11:21\u202fAM",
+        "type_of_day": 2
+    },
+    {
+        "id": null,
+        "ticker": "ZS",
+        "date": "08-04-2025",
+        "time": "09:11:21\u202fAM",
+        "price": 285.06,
+        "timestamp": "08-04-2025 at 09:11:21\u202fAM",
+        "type_of_day": 2
+    },
+    {
+        "id": null,
+        "ticker": "TLRY",
+        "date": "08-04-2025",
+        "time": "09:11:21\u202fAM",
+        "price": 0.59,
+        "timestamp": "08-04-2025 at 09:11:21\u202fAM",
+        "type_of_day": 2
+    },
+    {
+        "id": null,
+        "ticker": "PTON",
+        "date": "08-04-2025",
+        "time": "09:11:21\u202fAM",
+        "price": 6.7,
+        "timestamp": "08-04-2025 at 09:11:21\u202fAM",
+        "type_of_day": 2
+    },
+    {
+        "id": null,
+        "ticker": "DASH",
+        "date": "08-04-2025",
+        "time": "09:11:21\u202fAM",
+        "price": 253.74,
+        "timestamp": "08-04-2025 at 09:11:21\u202fAM",
+        "type_of_day": 2
+    },
+    {
+        "id": null,
+        "ticker": "OPEN",
+        "date": "08-04-2025",
+        "time": "09:11:21\u202fAM",
+        "price": 2.24,
+        "timestamp": "08-04-2025 at 09:11:21\u202fAM",
+        "type_of_day": 2
+    },
+    {
+        "id": null,
+        "ticker": "MBLY",
+        "date": "08-04-2025",
+        "time": "09:11:21\u202fAM",
+        "price": 14.04,
+        "timestamp": "08-04-2025 at 09:11:21\u202fAM",
+        "type_of_day": 2
+    },
+    {
+        "id": null,
+        "ticker": "MP",
+        "date": "08-04-2025",
+        "time": "09:11:21\u202fAM",
+        "price": 63.5,
+        "timestamp": "08-04-2025 at 09:11:21\u202fAM",
+        "type_of_day": 2
+    },
+    {
+        "id": null,
+        "ticker": "LULU",
+        "date": "08-04-2025",
+        "time": "09:11:21\u202fAM",
+        "price": 193.4,
+        "timestamp": "08-04-2025 at 09:11:21\u202fAM",
+        "type_of_day": 2
+    },
+    {
+        "id": null,
+        "ticker": "JPM",
+        "date": "08-04-2025",
+        "time": "09:11:21\u202fAM",
+        "price": 292.56,
+        "timestamp": "08-04-2025 at 09:11:21\u202fAM",
+        "type_of_day": 2
+    },
+    {
+        "id": null,
+        "ticker": "KO",
+        "date": "08-04-2025",
+        "time": "09:11:21\u202fAM",
+        "price": 68.55,
+        "timestamp": "08-04-2025 at 09:11:21\u202fAM",
+        "type_of_day": 2
+    },
+    {
+        "id": null,
+        "ticker": "CVX",
+        "date": "08-04-2025",
+        "time": "09:11:21\u202fAM",
+        "price": 150.62,
+        "timestamp": "08-04-2025 at 09:11:21\u202fAM",
+        "type_of_day": 2
+    },
+    {
+        "id": null,
+        "ticker": "VLO",
+        "date": "08-04-2025",
+        "time": "09:11:21\u202fAM",
+        "price": 133.15,
+        "timestamp": "08-04-2025 at 09:11:21\u202fAM",
+        "type_of_day": 2
+    },
+    {
+        "id": null,
+        "ticker": "TSLA",
+        "date": "08-04-2025",
+        "time": "09:11:21\u202fAM",
+        "price": 310.71,
+        "timestamp": "08-04-2025 at 09:11:21\u202fAM",
+        "type_of_day": 2
+    },
+    {
+        "id": null,
+        "ticker": "MSTR",
+        "date": "08-04-2025",
+        "time": "09:11:21\u202fAM",
+        "price": 378.54,
+        "timestamp": "08-04-2025 at 09:11:21\u202fAM",
+        "type_of_day": 2
+    },
+    {
+        "id": null,
+        "ticker": "WMT",
+        "date": "08-04-2025",
+        "time": "09:11:21\u202fAM",
+        "price": 99.36,
+        "timestamp": "08-04-2025 at 09:11:21\u202fAM",
+        "type_of_day": 2
+    },
+    {
+        "id": null,
+        "ticker": "ROST",
+        "date": "08-04-2025",
+        "time": "09:11:21\u202fAM",
+        "price": 139.54,
+        "timestamp": "08-04-2025 at 09:11:21\u202fAM",
+        "type_of_day": 2
+    },
+    {
+        "id": null,
+        "ticker": "BLK",
+        "date": "08-04-2025",
+        "time": "09:11:21\u202fAM",
+        "price": 1098.13,
+        "timestamp": "08-04-2025 at 09:11:21\u202fAM",
+        "type_of_day": 2
+    },
+    {
+        "id": null,
+        "ticker": "META",
+        "date": "08-04-2025",
+        "time": "09:11:21\u202fAM",
+        "price": 762.74,
+        "timestamp": "08-04-2025 at 09:11:21\u202fAM",
+        "type_of_day": 2
+    },
+    {
+        "id": null,
+        "ticker": "LYFT",
+        "date": "08-04-2025",
+        "time": "09:11:21\u202fAM",
+        "price": 14.03,
+        "timestamp": "08-04-2025 at 09:11:21\u202fAM",
+        "type_of_day": 2
+    },
+    {
+        "id": null,
+        "ticker": "UBER",
+        "date": "08-04-2025",
+        "time": "09:11:21\u202fAM",
+        "price": 87.75,
+        "timestamp": "08-04-2025 at 09:11:21\u202fAM",
+        "type_of_day": 2
+    },
+    {
+        "id": null,
+        "ticker": "PLUG",
+        "date": "08-04-2025",
+        "time": "09:11:21\u202fAM",
+        "price": 1.44,
+        "timestamp": "08-04-2025 at 09:11:21\u202fAM",
+        "type_of_day": 2
+    },
+    {
+        "id": null,
+        "ticker": "RGTI",
+        "date": "08-04-2025",
+        "time": "09:11:21\u202fAM",
+        "price": 15.6,
+        "timestamp": "08-04-2025 at 09:11:21\u202fAM",
+        "type_of_day": 2
+    },
+    {
+        "id": null,
+        "ticker": "BB",
+        "date": "08-04-2025",
+        "time": "09:11:21\u202fAM",
+        "price": 3.8,
+        "timestamp": "08-04-2025 at 09:11:21\u202fAM",
+        "type_of_day": 2
+    },
+    {
+        "id": null,
+        "ticker": "TLN",
+        "date": "08-04-2025",
+        "time": "09:11:21\u202fAM",
+        "price": 387.51,
+        "timestamp": "08-04-2025 at 09:11:21\u202fAM",
+        "type_of_day": 2
+    },
+    {
+        "id": null,
+        "ticker": "BBAI",
+        "date": "08-04-2025",
+        "time": "09:11:21\u202fAM",
+        "price": 7.28,
+        "timestamp": "08-04-2025 at 09:11:21\u202fAM",
+        "type_of_day": 2
+    },
+    {
+        "id": null,
+        "ticker": "SOUN",
+        "date": "08-04-2025",
+        "time": "09:11:21\u202fAM",
+        "price": 10.59,
+        "timestamp": "08-04-2025 at 09:11:21\u202fAM",
+        "type_of_day": 2
+    },
+    {
+        "id": null,
+        "ticker": "SOFI",
+        "date": "08-04-2025",
+        "time": "09:11:21\u202fAM",
+        "price": 21.39,
+        "timestamp": "08-04-2025 at 09:11:21\u202fAM",
+        "type_of_day": 2
+    },
+    {
+        "id": null,
+        "ticker": "LUV",
+        "date": "08-04-2025",
+        "time": "09:11:21\u202fAM",
+        "price": 29.88,
+        "timestamp": "08-04-2025 at 09:11:21\u202fAM",
+        "type_of_day": 2
+    },
+    {
+        "id": null,
+        "ticker": "AAL",
+        "date": "08-04-2025",
+        "time": "09:11:21\u202fAM",
+        "price": 11.25,
+        "timestamp": "08-04-2025 at 09:11:21\u202fAM",
+        "type_of_day": 2
+    },
+    {
+        "id": null,
+        "ticker": "AXP",
+        "date": "08-04-2025",
+        "time": "09:11:21\u202fAM",
+        "price": 297.1,
+        "timestamp": "08-04-2025 at 09:11:21\u202fAM",
+        "type_of_day": 2
+    },
+    {
+        "id": null,
+        "ticker": "TEAM",
+        "date": "08-04-2025",
+        "time": "09:11:21\u202fAM",
+        "price": 185.59,
+        "timestamp": "08-04-2025 at 09:11:21\u202fAM",
+        "type_of_day": 2
+    },
+    {
+        "id": null,
+        "ticker": "CMG",
+        "date": "08-04-2025",
+        "time": "09:11:21\u202fAM",
+        "price": 42.57,
+        "timestamp": "08-04-2025 at 09:11:21\u202fAM",
+        "type_of_day": 2
+    },
+    {
+        "id": null,
+        "ticker": "MDB",
+        "date": "08-04-2025",
+        "time": "09:11:21\u202fAM",
+        "price": 226.37,
+        "timestamp": "08-04-2025 at 09:11:21\u202fAM",
+        "type_of_day": 2
+    },
+    {
+        "id": null,
+        "ticker": "SG",
+        "date": "08-04-2025",
+        "time": "09:11:21\u202fAM",
+        "price": 12.19,
+        "timestamp": "08-04-2025 at 09:11:21\u202fAM",
+        "type_of_day": 2
+    },
+    {
+        "id": null,
+        "ticker": "KO",
+        "date": "08-04-2025",
+        "time": "09:11:21\u202fAM",
+        "price": 68.55,
+        "timestamp": "08-04-2025 at 09:11:21\u202fAM",
+        "type_of_day": 2
+    },
+    {
+        "id": null,
+        "ticker": "COST",
+        "date": "08-04-2025",
+        "time": "09:11:21\u202fAM",
+        "price": 957.68,
+        "timestamp": "08-04-2025 at 09:11:21\u202fAM",
+        "type_of_day": 2
+    },
+    {
+        "id": null,
+        "ticker": "GDDY",
+        "date": "08-04-2025",
+        "time": "09:11:21\u202fAM",
+        "price": 157.65,
+        "timestamp": "08-04-2025 at 09:11:21\u202fAM",
+        "type_of_day": 2
+    },
+    {
+        "id": null,
+        "ticker": "MAR",
+        "date": "08-04-2025",
+        "time": "09:11:21\u202fAM",
+        "price": 256.59,
+        "timestamp": "08-04-2025 at 09:11:21\u202fAM",
+        "type_of_day": 2
+    },
+    {
+        "id": null,
+        "ticker": "ALK",
+        "date": "08-04-2025",
+        "time": "09:11:21\u202fAM",
+        "price": 52.33,
+        "timestamp": "08-04-2025 at 09:11:21\u202fAM",
+        "type_of_day": 2
+    },
+    {
+        "id": null,
+        "ticker": "UAL",
+        "date": "08-04-2025",
+        "time": "09:11:21\u202fAM",
+        "price": 86.02,
+        "timestamp": "08-04-2025 at 09:11:21\u202fAM",
+        "type_of_day": 2
+    },
+    {
+        "id": null,
+        "ticker": "ZG",
+        "date": "08-04-2025",
+        "time": "09:11:21\u202fAM",
+        "price": 78.85,
+        "timestamp": "08-04-2025 at 09:11:21\u202fAM",
+        "type_of_day": 2
+    },
+    {
+        "id": null,
+        "ticker": "V",
+        "date": "08-04-2025",
+        "time": "09:11:21\u202fAM",
+        "price": 341.8,
+        "timestamp": "08-04-2025 at 09:11:21\u202fAM",
+        "type_of_day": 2
+    },
+    {
+        "id": null,
+        "ticker": "LYV",
+        "date": "08-04-2025",
+        "time": "09:11:21\u202fAM",
+        "price": 148.64,
+        "timestamp": "08-04-2025 at 09:11:21\u202fAM",
+        "type_of_day": 2
+    },
+    {
+        "id": null,
+        "ticker": "KRG",
+        "date": "08-04-2025",
+        "time": "09:11:21\u202fAM",
+        "price": 21.73,
+        "timestamp": "08-04-2025 at 09:11:21\u202fAM",
+        "type_of_day": 2
+    },
+    {
+        "id": null,
+        "ticker": "DAVE",
+        "date": "08-04-2025",
+        "time": "10:26:32\u202fAM",
+        "price": 240.09,
+        "timestamp": "08-04-2025 at 10:26:32\u202fAM",
+        "type_of_day": 3
+    },
+    {
+        "id": null,
+        "ticker": "CVNA",
+        "date": "08-04-2025",
+        "time": "10:26:32\u202fAM",
+        "price": 360.67,
+        "timestamp": "08-04-2025 at 10:26:32\u202fAM",
+        "type_of_day": 3
+    },
+    {
+        "id": null,
+        "ticker": "CGC",
+        "date": "08-04-2025",
+        "time": "10:26:32\u202fAM",
+        "price": 1.08,
+        "timestamp": "08-04-2025 at 10:26:32\u202fAM",
+        "type_of_day": 3
+    },
+    {
+        "id": null,
+        "ticker": "CMG",
+        "date": "08-04-2025",
+        "time": "10:26:32\u202fAM",
+        "price": 42.94,
+        "timestamp": "08-04-2025 at 10:26:32\u202fAM",
+        "type_of_day": 3
+    },
+    {
+        "id": null,
+        "ticker": "PLTR",
+        "date": "08-04-2025",
+        "time": "10:26:32\u202fAM",
+        "price": 158.67,
+        "timestamp": "08-04-2025 at 10:26:32\u202fAM",
+        "type_of_day": 3
+    },
+    {
+        "id": null,
+        "ticker": "XMTR",
+        "date": "08-04-2025",
+        "time": "10:26:32\u202fAM",
+        "price": 31.25,
+        "timestamp": "08-04-2025 at 10:26:32\u202fAM",
+        "type_of_day": 3
+    },
+    {
+        "id": null,
+        "ticker": "MCD",
+        "date": "08-04-2025",
+        "time": "10:26:32\u202fAM",
+        "price": 305.58,
+        "timestamp": "08-04-2025 at 10:26:32\u202fAM",
+        "type_of_day": 3
+    },
+    {
+        "id": null,
+        "ticker": "DNUT",
+        "date": "08-04-2025",
+        "time": "10:26:32\u202fAM",
+        "price": 3.68,
+        "timestamp": "08-04-2025 at 10:26:32\u202fAM",
+        "type_of_day": 3
+    },
+    {
+        "id": null,
+        "ticker": "SFM",
+        "date": "08-04-2025",
+        "time": "10:26:32\u202fAM",
+        "price": 159.88,
+        "timestamp": "08-04-2025 at 10:26:32\u202fAM",
+        "type_of_day": 3
+    },
+    {
+        "id": null,
+        "ticker": "LUMN",
+        "date": "08-04-2025",
+        "time": "10:26:32\u202fAM",
+        "price": 3.69,
+        "timestamp": "08-04-2025 at 10:26:32\u202fAM",
+        "type_of_day": 3
+    },
+    {
+        "id": null,
+        "ticker": "RCL",
+        "date": "08-04-2025",
+        "time": "10:26:32\u202fAM",
+        "price": 315.1,
+        "timestamp": "08-04-2025 at 10:26:32\u202fAM",
+        "type_of_day": 3
+    },
+    {
+        "id": null,
+        "ticker": "ZS",
+        "date": "08-04-2025",
+        "time": "10:26:32\u202fAM",
+        "price": 284.82,
+        "timestamp": "08-04-2025 at 10:26:32\u202fAM",
+        "type_of_day": 3
+    },
+    {
+        "id": null,
+        "ticker": "TLRY",
+        "date": "08-04-2025",
+        "time": "10:26:32\u202fAM",
+        "price": 0.59,
+        "timestamp": "08-04-2025 at 10:26:32\u202fAM",
+        "type_of_day": 3
+    },
+    {
+        "id": null,
+        "ticker": "PTON",
+        "date": "08-04-2025",
+        "time": "10:26:32\u202fAM",
+        "price": 6.55,
+        "timestamp": "08-04-2025 at 10:26:32\u202fAM",
+        "type_of_day": 3
+    },
+    {
+        "id": null,
+        "ticker": "DASH",
+        "date": "08-04-2025",
+        "time": "10:26:32\u202fAM",
+        "price": 254.01,
+        "timestamp": "08-04-2025 at 10:26:32\u202fAM",
+        "type_of_day": 3
+    },
+    {
+        "id": null,
+        "ticker": "OPEN",
+        "date": "08-04-2025",
+        "time": "10:26:32\u202fAM",
+        "price": 2.2,
+        "timestamp": "08-04-2025 at 10:26:32\u202fAM",
+        "type_of_day": 3
+    },
+    {
+        "id": null,
+        "ticker": "MBLY",
+        "date": "08-04-2025",
+        "time": "10:26:32\u202fAM",
+        "price": 14.07,
+        "timestamp": "08-04-2025 at 10:26:32\u202fAM",
+        "type_of_day": 3
+    },
+    {
+        "id": null,
+        "ticker": "MP",
+        "date": "08-04-2025",
+        "time": "10:26:32\u202fAM",
+        "price": 65.04,
+        "timestamp": "08-04-2025 at 10:26:32\u202fAM",
+        "type_of_day": 3
+    },
+    {
+        "id": null,
+        "ticker": "LULU",
+        "date": "08-04-2025",
+        "time": "10:26:32\u202fAM",
+        "price": 195.26,
+        "timestamp": "08-04-2025 at 10:26:32\u202fAM",
+        "type_of_day": 3
+    },
+    {
+        "id": null,
+        "ticker": "JPM",
+        "date": "08-04-2025",
+        "time": "10:26:32\u202fAM",
+        "price": 292.58,
+        "timestamp": "08-04-2025 at 10:26:32\u202fAM",
+        "type_of_day": 3
+    },
+    {
+        "id": null,
+        "ticker": "KO",
+        "date": "08-04-2025",
+        "time": "10:26:32\u202fAM",
+        "price": 68.65,
+        "timestamp": "08-04-2025 at 10:26:32\u202fAM",
+        "type_of_day": 3
+    },
+    {
+        "id": null,
+        "ticker": "CVX",
+        "date": "08-04-2025",
+        "time": "10:26:32\u202fAM",
+        "price": 150.86,
+        "timestamp": "08-04-2025 at 10:26:32\u202fAM",
+        "type_of_day": 3
+    },
+    {
+        "id": null,
+        "ticker": "VLO",
+        "date": "08-04-2025",
+        "time": "10:26:32\u202fAM",
+        "price": 134.73,
+        "timestamp": "08-04-2025 at 10:26:32\u202fAM",
+        "type_of_day": 3
+    },
+    {
+        "id": null,
+        "ticker": "TSLA",
+        "date": "08-04-2025",
+        "time": "10:26:32\u202fAM",
+        "price": 306.29,
+        "timestamp": "08-04-2025 at 10:26:32\u202fAM",
+        "type_of_day": 3
+    },
+    {
+        "id": null,
+        "ticker": "MSTR",
+        "date": "08-04-2025",
+        "time": "10:26:32\u202fAM",
+        "price": 383.58,
+        "timestamp": "08-04-2025 at 10:26:32\u202fAM",
+        "type_of_day": 3
+    },
+    {
+        "id": null,
+        "ticker": "WMT",
+        "date": "08-04-2025",
+        "time": "10:26:32\u202fAM",
+        "price": 99.41,
+        "timestamp": "08-04-2025 at 10:26:32\u202fAM",
+        "type_of_day": 3
+    },
+    {
+        "id": null,
+        "ticker": "ROST",
+        "date": "08-04-2025",
+        "time": "10:26:32\u202fAM",
+        "price": 140.6,
+        "timestamp": "08-04-2025 at 10:26:32\u202fAM",
+        "type_of_day": 3
+    },
+    {
+        "id": null,
+        "ticker": "BLK",
+        "date": "08-04-2025",
+        "time": "10:26:32\u202fAM",
+        "price": 1103.47,
+        "timestamp": "08-04-2025 at 10:26:32\u202fAM",
+        "type_of_day": 3
+    },
+    {
+        "id": null,
+        "ticker": "META",
+        "date": "08-04-2025",
+        "time": "10:26:32\u202fAM",
+        "price": 770.13,
+        "timestamp": "08-04-2025 at 10:26:32\u202fAM",
+        "type_of_day": 3
+    },
+    {
+        "id": null,
+        "ticker": "LYFT",
+        "date": "08-04-2025",
+        "time": "10:26:32\u202fAM",
+        "price": 14.16,
+        "timestamp": "08-04-2025 at 10:26:32\u202fAM",
+        "type_of_day": 3
+    },
+    {
+        "id": null,
+        "ticker": "UBER",
+        "date": "08-04-2025",
+        "time": "10:26:32\u202fAM",
+        "price": 87.99,
+        "timestamp": "08-04-2025 at 10:26:32\u202fAM",
+        "type_of_day": 3
+    },
+    {
+        "id": null,
+        "ticker": "PLUG",
+        "date": "08-04-2025",
+        "time": "10:26:32\u202fAM",
+        "price": 1.42,
+        "timestamp": "08-04-2025 at 10:26:32\u202fAM",
+        "type_of_day": 3
+    },
+    {
+        "id": null,
+        "ticker": "RGTI",
+        "date": "08-04-2025",
+        "time": "10:26:32\u202fAM",
+        "price": 15.05,
+        "timestamp": "08-04-2025 at 10:26:32\u202fAM",
+        "type_of_day": 3
+    },
+    {
+        "id": null,
+        "ticker": "BB",
+        "date": "08-04-2025",
+        "time": "10:26:32\u202fAM",
+        "price": 3.78,
+        "timestamp": "08-04-2025 at 10:26:32\u202fAM",
+        "type_of_day": 3
+    },
+    {
+        "id": null,
+        "ticker": "TLN",
+        "date": "08-04-2025",
+        "time": "10:26:32\u202fAM",
+        "price": 385.75,
+        "timestamp": "08-04-2025 at 10:26:32\u202fAM",
+        "type_of_day": 3
+    },
+    {
+        "id": null,
+        "ticker": "BBAI",
+        "date": "08-04-2025",
+        "time": "10:26:32\u202fAM",
+        "price": 7.13,
+        "timestamp": "08-04-2025 at 10:26:32\u202fAM",
+        "type_of_day": 3
+    },
+    {
+        "id": null,
+        "ticker": "SOUN",
+        "date": "08-04-2025",
+        "time": "10:26:32\u202fAM",
+        "price": 10.51,
+        "timestamp": "08-04-2025 at 10:26:32\u202fAM",
+        "type_of_day": 3
+    },
+    {
+        "id": null,
+        "ticker": "SOFI",
+        "date": "08-04-2025",
+        "time": "10:26:32\u202fAM",
+        "price": 21.26,
+        "timestamp": "08-04-2025 at 10:26:32\u202fAM",
+        "type_of_day": 3
+    },
+    {
+        "id": null,
+        "ticker": "LUV",
+        "date": "08-04-2025",
+        "time": "10:26:32\u202fAM",
+        "price": 29.83,
+        "timestamp": "08-04-2025 at 10:26:32\u202fAM",
+        "type_of_day": 3
+    },
+    {
+        "id": null,
+        "ticker": "AAL",
+        "date": "08-04-2025",
+        "time": "10:26:32\u202fAM",
+        "price": 11.19,
+        "timestamp": "08-04-2025 at 10:26:32\u202fAM",
+        "type_of_day": 3
+    },
+    {
+        "id": null,
+        "ticker": "AXP",
+        "date": "08-04-2025",
+        "time": "10:26:32\u202fAM",
+        "price": 297.66,
+        "timestamp": "08-04-2025 at 10:26:32\u202fAM",
+        "type_of_day": 3
+    },
+    {
+        "id": null,
+        "ticker": "TEAM",
+        "date": "08-04-2025",
+        "time": "10:26:32\u202fAM",
+        "price": 185.96,
+        "timestamp": "08-04-2025 at 10:26:32\u202fAM",
+        "type_of_day": 3
+    },
+    {
+        "id": null,
+        "ticker": "CMG",
+        "date": "08-04-2025",
+        "time": "10:26:32\u202fAM",
+        "price": 42.94,
+        "timestamp": "08-04-2025 at 10:26:32\u202fAM",
+        "type_of_day": 3
+    },
+    {
+        "id": null,
+        "ticker": "MDB",
+        "date": "08-04-2025",
+        "time": "10:26:32\u202fAM",
+        "price": 225.59,
+        "timestamp": "08-04-2025 at 10:26:32\u202fAM",
+        "type_of_day": 3
+    },
+    {
+        "id": null,
+        "ticker": "SG",
+        "date": "08-04-2025",
+        "time": "10:26:32\u202fAM",
+        "price": 12.42,
+        "timestamp": "08-04-2025 at 10:26:32\u202fAM",
+        "type_of_day": 3
+    },
+    {
+        "id": null,
+        "ticker": "KO",
+        "date": "08-04-2025",
+        "time": "10:26:32\u202fAM",
+        "price": 68.65,
+        "timestamp": "08-04-2025 at 10:26:32\u202fAM",
+        "type_of_day": 3
+    },
+    {
+        "id": null,
+        "ticker": "COST",
+        "date": "08-04-2025",
+        "time": "10:26:32\u202fAM",
+        "price": 953.36,
+        "timestamp": "08-04-2025 at 10:26:32\u202fAM",
+        "type_of_day": 3
+    },
+    {
+        "id": null,
+        "ticker": "GDDY",
+        "date": "08-04-2025",
+        "time": "10:26:32\u202fAM",
+        "price": 157.87,
+        "timestamp": "08-04-2025 at 10:26:32\u202fAM",
+        "type_of_day": 3
+    },
+    {
+        "id": null,
+        "ticker": "MAR",
+        "date": "08-04-2025",
+        "time": "10:26:32\u202fAM",
+        "price": 257.46,
+        "timestamp": "08-04-2025 at 10:26:32\u202fAM",
+        "type_of_day": 3
+    },
+    {
+        "id": null,
+        "ticker": "ALK",
+        "date": "08-04-2025",
+        "time": "10:26:32\u202fAM",
+        "price": 52.41,
+        "timestamp": "08-04-2025 at 10:26:32\u202fAM",
+        "type_of_day": 3
+    },
+    {
+        "id": null,
+        "ticker": "UAL",
+        "date": "08-04-2025",
+        "time": "10:26:32\u202fAM",
+        "price": 85.91,
+        "timestamp": "08-04-2025 at 10:26:32\u202fAM",
+        "type_of_day": 3
+    },
+    {
+        "id": null,
+        "ticker": "ZG",
+        "date": "08-04-2025",
+        "time": "10:26:32\u202fAM",
+        "price": 79.71,
+        "timestamp": "08-04-2025 at 10:26:32\u202fAM",
+        "type_of_day": 3
+    },
+    {
+        "id": null,
+        "ticker": "V",
+        "date": "08-04-2025",
+        "time": "10:26:32\u202fAM",
+        "price": 343.23,
+        "timestamp": "08-04-2025 at 10:26:32\u202fAM",
+        "type_of_day": 3
+    },
+    {
+        "id": null,
+        "ticker": "LYV",
+        "date": "08-04-2025",
+        "time": "10:26:32\u202fAM",
+        "price": 150.15,
+        "timestamp": "08-04-2025 at 10:26:32\u202fAM",
+        "type_of_day": 3
+    },
+    {
+        "id": null,
+        "ticker": "KRG",
+        "date": "08-04-2025",
+        "time": "10:26:32\u202fAM",
+        "price": 21.81,
+        "timestamp": "08-04-2025 at 10:26:32\u202fAM",
+        "type_of_day": 3
+    },
+    {
+        "id": null,
+        "ticker": "DAVE",
+        "date": "08-04-2025",
+        "time": "11:03:24\u202fAM",
+        "price": 242.05,
+        "timestamp": "08-04-2025 at 11:03:24\u202fAM",
+        "type_of_day": 4
+    },
+    {
+        "id": null,
+        "ticker": "CVNA",
+        "date": "08-04-2025",
+        "time": "11:03:24\u202fAM",
+        "price": 365.37,
+        "timestamp": "08-04-2025 at 11:03:24\u202fAM",
+        "type_of_day": 4
+    },
+    {
+        "id": null,
+        "ticker": "CGC",
+        "date": "08-04-2025",
+        "time": "11:03:24\u202fAM",
+        "price": 1.09,
+        "timestamp": "08-04-2025 at 11:03:24\u202fAM",
+        "type_of_day": 4
+    },
+    {
+        "id": null,
+        "ticker": "CMG",
+        "date": "08-04-2025",
+        "time": "11:03:24\u202fAM",
+        "price": 42.92,
+        "timestamp": "08-04-2025 at 11:03:24\u202fAM",
+        "type_of_day": 4
+    },
+    {
+        "id": null,
+        "ticker": "PLTR",
+        "date": "08-04-2025",
+        "time": "11:03:24\u202fAM",
+        "price": 159.52,
+        "timestamp": "08-04-2025 at 11:03:24\u202fAM",
+        "type_of_day": 4
+    },
+    {
+        "id": null,
+        "ticker": "XMTR",
+        "date": "08-04-2025",
+        "time": "11:03:24\u202fAM",
+        "price": 31.27,
+        "timestamp": "08-04-2025 at 11:03:24\u202fAM",
+        "type_of_day": 4
+    },
+    {
+        "id": null,
+        "ticker": "MCD",
+        "date": "08-04-2025",
+        "time": "11:03:24\u202fAM",
+        "price": 305.36,
+        "timestamp": "08-04-2025 at 11:03:24\u202fAM",
+        "type_of_day": 4
+    },
+    {
+        "id": null,
+        "ticker": "DNUT",
+        "date": "08-04-2025",
+        "time": "11:03:24\u202fAM",
+        "price": 3.7,
+        "timestamp": "08-04-2025 at 11:03:24\u202fAM",
+        "type_of_day": 4
+    },
+    {
+        "id": null,
+        "ticker": "SFM",
+        "date": "08-04-2025",
+        "time": "11:03:24\u202fAM",
+        "price": 158.25,
+        "timestamp": "08-04-2025 at 11:03:24\u202fAM",
+        "type_of_day": 4
+    },
+    {
+        "id": null,
+        "ticker": "LUMN",
+        "date": "08-04-2025",
+        "time": "11:03:24\u202fAM",
+        "price": 3.7,
+        "timestamp": "08-04-2025 at 11:03:24\u202fAM",
+        "type_of_day": 4
+    },
+    {
+        "id": null,
+        "ticker": "RCL",
+        "date": "08-04-2025",
+        "time": "11:03:24\u202fAM",
+        "price": 315.54,
+        "timestamp": "08-04-2025 at 11:03:24\u202fAM",
+        "type_of_day": 4
+    },
+    {
+        "id": null,
+        "ticker": "ZS",
+        "date": "08-04-2025",
+        "time": "11:03:24\u202fAM",
+        "price": 285.41,
+        "timestamp": "08-04-2025 at 11:03:24\u202fAM",
+        "type_of_day": 4
+    },
+    {
+        "id": null,
+        "ticker": "TLRY",
+        "date": "08-04-2025",
+        "time": "11:03:24\u202fAM",
+        "price": 0.6,
+        "timestamp": "08-04-2025 at 11:03:24\u202fAM",
+        "type_of_day": 4
+    },
+    {
+        "id": null,
+        "ticker": "PTON",
+        "date": "08-04-2025",
+        "time": "11:03:24\u202fAM",
+        "price": 6.73,
+        "timestamp": "08-04-2025 at 11:03:24\u202fAM",
+        "type_of_day": 4
+    },
+    {
+        "id": null,
+        "ticker": "DASH",
+        "date": "08-04-2025",
+        "time": "11:03:24\u202fAM",
+        "price": 254.95,
+        "timestamp": "08-04-2025 at 11:03:24\u202fAM",
+        "type_of_day": 4
+    },
+    {
+        "id": null,
+        "ticker": "OPEN",
+        "date": "08-04-2025",
+        "time": "11:03:24\u202fAM",
+        "price": 2.25,
+        "timestamp": "08-04-2025 at 11:03:24\u202fAM",
+        "type_of_day": 4
+    },
+    {
+        "id": null,
+        "ticker": "MBLY",
+        "date": "08-04-2025",
+        "time": "11:03:24\u202fAM",
+        "price": 14.04,
+        "timestamp": "08-04-2025 at 11:03:24\u202fAM",
+        "type_of_day": 4
+    },
+    {
+        "id": null,
+        "ticker": "MP",
+        "date": "08-04-2025",
+        "time": "11:03:24\u202fAM",
+        "price": 66.03,
+        "timestamp": "08-04-2025 at 11:03:24\u202fAM",
+        "type_of_day": 4
+    },
+    {
+        "id": null,
+        "ticker": "LULU",
+        "date": "08-04-2025",
+        "time": "11:03:24\u202fAM",
+        "price": 196.05,
+        "timestamp": "08-04-2025 at 11:03:24\u202fAM",
+        "type_of_day": 4
+    },
+    {
+        "id": null,
+        "ticker": "JPM",
+        "date": "08-04-2025",
+        "time": "11:03:24\u202fAM",
+        "price": 292.54,
+        "timestamp": "08-04-2025 at 11:03:24\u202fAM",
+        "type_of_day": 4
+    },
+    {
+        "id": null,
+        "ticker": "KO",
+        "date": "08-04-2025",
+        "time": "11:03:24\u202fAM",
+        "price": 68.77,
+        "timestamp": "08-04-2025 at 11:03:24\u202fAM",
+        "type_of_day": 4
+    },
+    {
+        "id": null,
+        "ticker": "CVX",
+        "date": "08-04-2025",
+        "time": "11:03:24\u202fAM",
+        "price": 150.39,
+        "timestamp": "08-04-2025 at 11:03:24\u202fAM",
+        "type_of_day": 4
+    },
+    {
+        "id": null,
+        "ticker": "VLO",
+        "date": "08-04-2025",
+        "time": "11:03:24\u202fAM",
+        "price": 134.31,
+        "timestamp": "08-04-2025 at 11:03:24\u202fAM",
+        "type_of_day": 4
+    },
+    {
+        "id": null,
+        "ticker": "TSLA",
+        "date": "08-04-2025",
+        "time": "11:03:24\u202fAM",
+        "price": 308.11,
+        "timestamp": "08-04-2025 at 11:03:24\u202fAM",
+        "type_of_day": 4
+    },
+    {
+        "id": null,
+        "ticker": "MSTR",
+        "date": "08-04-2025",
+        "time": "11:03:24\u202fAM",
+        "price": 385.71,
+        "timestamp": "08-04-2025 at 11:03:24\u202fAM",
+        "type_of_day": 4
+    },
+    {
+        "id": null,
+        "ticker": "WMT",
+        "date": "08-04-2025",
+        "time": "11:03:24\u202fAM",
+        "price": 99.43,
+        "timestamp": "08-04-2025 at 11:03:24\u202fAM",
+        "type_of_day": 4
+    },
+    {
+        "id": null,
+        "ticker": "ROST",
+        "date": "08-04-2025",
+        "time": "11:03:24\u202fAM",
+        "price": 140.17,
+        "timestamp": "08-04-2025 at 11:03:24\u202fAM",
+        "type_of_day": 4
+    },
+    {
+        "id": null,
+        "ticker": "BLK",
+        "date": "08-04-2025",
+        "time": "11:03:24\u202fAM",
+        "price": 1102.75,
+        "timestamp": "08-04-2025 at 11:03:24\u202fAM",
+        "type_of_day": 4
+    },
+    {
+        "id": null,
+        "ticker": "META",
+        "date": "08-04-2025",
+        "time": "11:03:24\u202fAM",
+        "price": 771.21,
+        "timestamp": "08-04-2025 at 11:03:24\u202fAM",
+        "type_of_day": 4
+    },
+    {
+        "id": null,
+        "ticker": "LYFT",
+        "date": "08-04-2025",
+        "time": "11:03:24\u202fAM",
+        "price": 14.17,
+        "timestamp": "08-04-2025 at 11:03:24\u202fAM",
+        "type_of_day": 4
+    },
+    {
+        "id": null,
+        "ticker": "UBER",
+        "date": "08-04-2025",
+        "time": "11:03:24\u202fAM",
+        "price": 88.02,
+        "timestamp": "08-04-2025 at 11:03:24\u202fAM",
+        "type_of_day": 4
+    },
+    {
+        "id": null,
+        "ticker": "PLUG",
+        "date": "08-04-2025",
+        "time": "11:03:24\u202fAM",
+        "price": 1.41,
+        "timestamp": "08-04-2025 at 11:03:24\u202fAM",
+        "type_of_day": 4
+    },
+    {
+        "id": null,
+        "ticker": "RGTI",
+        "date": "08-04-2025",
+        "time": "11:03:24\u202fAM",
+        "price": 15.23,
+        "timestamp": "08-04-2025 at 11:03:24\u202fAM",
+        "type_of_day": 4
+    },
+    {
+        "id": null,
+        "ticker": "BB",
+        "date": "08-04-2025",
+        "time": "11:03:24\u202fAM",
+        "price": 3.78,
+        "timestamp": "08-04-2025 at 11:03:24\u202fAM",
+        "type_of_day": 4
+    },
+    {
+        "id": null,
+        "ticker": "TLN",
+        "date": "08-04-2025",
+        "time": "11:03:24\u202fAM",
+        "price": 389.88,
+        "timestamp": "08-04-2025 at 11:03:24\u202fAM",
+        "type_of_day": 4
+    },
+    {
+        "id": null,
+        "ticker": "BBAI",
+        "date": "08-04-2025",
+        "time": "11:03:24\u202fAM",
+        "price": 7.23,
+        "timestamp": "08-04-2025 at 11:03:24\u202fAM",
+        "type_of_day": 4
+    },
+    {
+        "id": null,
+        "ticker": "SOUN",
+        "date": "08-04-2025",
+        "time": "11:03:24\u202fAM",
+        "price": 10.63,
+        "timestamp": "08-04-2025 at 11:03:24\u202fAM",
+        "type_of_day": 4
+    },
+    {
+        "id": null,
+        "ticker": "SOFI",
+        "date": "08-04-2025",
+        "time": "11:03:24\u202fAM",
+        "price": 21.2,
+        "timestamp": "08-04-2025 at 11:03:24\u202fAM",
+        "type_of_day": 4
+    },
+    {
+        "id": null,
+        "ticker": "LUV",
+        "date": "08-04-2025",
+        "time": "11:03:24\u202fAM",
+        "price": 29.64,
+        "timestamp": "08-04-2025 at 11:03:24\u202fAM",
+        "type_of_day": 4
+    },
+    {
+        "id": null,
+        "ticker": "AAL",
+        "date": "08-04-2025",
+        "time": "11:03:24\u202fAM",
+        "price": 11.16,
+        "timestamp": "08-04-2025 at 11:03:24\u202fAM",
+        "type_of_day": 4
+    },
+    {
+        "id": null,
+        "ticker": "AXP",
+        "date": "08-04-2025",
+        "time": "11:03:24\u202fAM",
+        "price": 297.35,
+        "timestamp": "08-04-2025 at 11:03:24\u202fAM",
+        "type_of_day": 4
+    },
+    {
+        "id": null,
+        "ticker": "TEAM",
+        "date": "08-04-2025",
+        "time": "11:03:24\u202fAM",
+        "price": 185.26,
+        "timestamp": "08-04-2025 at 11:03:24\u202fAM",
+        "type_of_day": 4
+    },
+    {
+        "id": null,
+        "ticker": "CMG",
+        "date": "08-04-2025",
+        "time": "11:03:24\u202fAM",
+        "price": 42.92,
+        "timestamp": "08-04-2025 at 11:03:24\u202fAM",
+        "type_of_day": 4
+    },
+    {
+        "id": null,
+        "ticker": "MDB",
+        "date": "08-04-2025",
+        "time": "11:03:24\u202fAM",
+        "price": 226.7,
+        "timestamp": "08-04-2025 at 11:03:24\u202fAM",
+        "type_of_day": 4
+    },
+    {
+        "id": null,
+        "ticker": "SG",
+        "date": "08-04-2025",
+        "time": "11:03:24\u202fAM",
+        "price": 12.38,
+        "timestamp": "08-04-2025 at 11:03:24\u202fAM",
+        "type_of_day": 4
+    },
+    {
+        "id": null,
+        "ticker": "KO",
+        "date": "08-04-2025",
+        "time": "11:03:24\u202fAM",
+        "price": 68.77,
+        "timestamp": "08-04-2025 at 11:03:24\u202fAM",
+        "type_of_day": 4
+    },
+    {
+        "id": null,
+        "ticker": "COST",
+        "date": "08-04-2025",
+        "time": "11:03:24\u202fAM",
+        "price": 953.12,
+        "timestamp": "08-04-2025 at 11:03:24\u202fAM",
+        "type_of_day": 4
+    },
+    {
+        "id": null,
+        "ticker": "GDDY",
+        "date": "08-04-2025",
+        "time": "11:03:24\u202fAM",
+        "price": 157.75,
+        "timestamp": "08-04-2025 at 11:03:24\u202fAM",
+        "type_of_day": 4
+    },
+    {
+        "id": null,
+        "ticker": "MAR",
+        "date": "08-04-2025",
+        "time": "11:03:24\u202fAM",
+        "price": 256.83,
+        "timestamp": "08-04-2025 at 11:03:24\u202fAM",
+        "type_of_day": 4
+    },
+    {
+        "id": null,
+        "ticker": "ALK",
+        "date": "08-04-2025",
+        "time": "11:03:24\u202fAM",
+        "price": 52.4,
+        "timestamp": "08-04-2025 at 11:03:24\u202fAM",
+        "type_of_day": 4
+    },
+    {
+        "id": null,
+        "ticker": "UAL",
+        "date": "08-04-2025",
+        "time": "11:03:24\u202fAM",
+        "price": 85.84,
+        "timestamp": "08-04-2025 at 11:03:24\u202fAM",
+        "type_of_day": 4
+    },
+    {
+        "id": null,
+        "ticker": "ZG",
+        "date": "08-04-2025",
+        "time": "11:03:24\u202fAM",
+        "price": 80.15,
+        "timestamp": "08-04-2025 at 11:03:24\u202fAM",
+        "type_of_day": 4
+    },
+    {
+        "id": null,
+        "ticker": "V",
+        "date": "08-04-2025",
+        "time": "11:03:24\u202fAM",
+        "price": 342.24,
+        "timestamp": "08-04-2025 at 11:03:24\u202fAM",
+        "type_of_day": 4
+    },
+    {
+        "id": null,
+        "ticker": "LYV",
+        "date": "08-04-2025",
+        "time": "11:03:24\u202fAM",
+        "price": 150.74,
+        "timestamp": "08-04-2025 at 11:03:24\u202fAM",
+        "type_of_day": 4
+    },
+    {
+        "id": null,
+        "ticker": "KRG",
+        "date": "08-04-2025",
+        "time": "11:03:24\u202fAM",
+        "price": 21.87,
+        "timestamp": "08-04-2025 at 11:03:24\u202fAM",
+        "type_of_day": 4
+    },
+    {
+        "id": null,
+        "ticker": "DAVE",
+        "date": "08-04-2025",
+        "time": "12:49:44\u202fPM",
+        "price": 245.58,
+        "timestamp": "08-04-2025 at 12:49:44\u202fPM",
+        "type_of_day": 5
+    },
+    {
+        "id": null,
+        "ticker": "CVNA",
+        "date": "08-04-2025",
+        "time": "12:49:44\u202fPM",
+        "price": 370.5,
+        "timestamp": "08-04-2025 at 12:49:44\u202fPM",
+        "type_of_day": 5
+    },
+    {
+        "id": null,
+        "ticker": "CGC",
+        "date": "08-04-2025",
+        "time": "12:49:44\u202fPM",
+        "price": 1.1,
+        "timestamp": "08-04-2025 at 12:49:44\u202fPM",
+        "type_of_day": 5
+    },
+    {
+        "id": null,
+        "ticker": "CMG",
+        "date": "08-04-2025",
+        "time": "12:49:44\u202fPM",
+        "price": 42.8,
+        "timestamp": "08-04-2025 at 12:49:44\u202fPM",
+        "type_of_day": 5
+    },
+    {
+        "id": null,
+        "ticker": "PLTR",
+        "date": "08-04-2025",
+        "time": "12:49:44\u202fPM",
+        "price": 160.2,
+        "timestamp": "08-04-2025 at 12:49:44\u202fPM",
+        "type_of_day": 5
+    },
+    {
+        "id": null,
+        "ticker": "XMTR",
+        "date": "08-04-2025",
+        "time": "12:49:44\u202fPM",
+        "price": 31.37,
+        "timestamp": "08-04-2025 at 12:49:44\u202fPM",
+        "type_of_day": 5
+    },
+    {
+        "id": null,
+        "ticker": "MCD",
+        "date": "08-04-2025",
+        "time": "12:49:44\u202fPM",
+        "price": 304.92,
+        "timestamp": "08-04-2025 at 12:49:44\u202fPM",
+        "type_of_day": 5
+    },
+    {
+        "id": null,
+        "ticker": "DNUT",
+        "date": "08-04-2025",
+        "time": "12:49:44\u202fPM",
+        "price": 3.71,
+        "timestamp": "08-04-2025 at 12:49:44\u202fPM",
+        "type_of_day": 5
+    },
+    {
+        "id": null,
+        "ticker": "SFM",
+        "date": "08-04-2025",
+        "time": "12:49:44\u202fPM",
+        "price": 155.91,
+        "timestamp": "08-04-2025 at 12:49:44\u202fPM",
+        "type_of_day": 5
+    },
+    {
+        "id": null,
+        "ticker": "LUMN",
+        "date": "08-04-2025",
+        "time": "12:49:44\u202fPM",
+        "price": 3.7,
+        "timestamp": "08-04-2025 at 12:49:44\u202fPM",
+        "type_of_day": 5
+    },
+    {
+        "id": null,
+        "ticker": "RCL",
+        "date": "08-04-2025",
+        "time": "12:49:44\u202fPM",
+        "price": 314.14,
+        "timestamp": "08-04-2025 at 12:49:44\u202fPM",
+        "type_of_day": 5
+    },
+    {
+        "id": null,
+        "ticker": "ZS",
+        "date": "08-04-2025",
+        "time": "12:49:44\u202fPM",
+        "price": 284.94,
+        "timestamp": "08-04-2025 at 12:49:44\u202fPM",
+        "type_of_day": 5
+    },
+    {
+        "id": null,
+        "ticker": "TLRY",
+        "date": "08-04-2025",
+        "time": "12:49:44\u202fPM",
+        "price": 0.6,
+        "timestamp": "08-04-2025 at 12:49:44\u202fPM",
+        "type_of_day": 5
+    },
+    {
+        "id": null,
+        "ticker": "PTON",
+        "date": "08-04-2025",
+        "time": "12:49:44\u202fPM",
+        "price": 6.83,
+        "timestamp": "08-04-2025 at 12:49:44\u202fPM",
+        "type_of_day": 5
+    },
+    {
+        "id": null,
+        "ticker": "DASH",
+        "date": "08-04-2025",
+        "time": "12:49:44\u202fPM",
+        "price": 257.55,
+        "timestamp": "08-04-2025 at 12:49:44\u202fPM",
+        "type_of_day": 5
+    },
+    {
+        "id": null,
+        "ticker": "OPEN",
+        "date": "08-04-2025",
+        "time": "12:49:44\u202fPM",
+        "price": 2.44,
+        "timestamp": "08-04-2025 at 12:49:44\u202fPM",
+        "type_of_day": 5
+    },
+    {
+        "id": null,
+        "ticker": "MBLY",
+        "date": "08-04-2025",
+        "time": "12:49:44\u202fPM",
+        "price": 13.98,
+        "timestamp": "08-04-2025 at 12:49:44\u202fPM",
+        "type_of_day": 5
+    },
+    {
+        "id": null,
+        "ticker": "MP",
+        "date": "08-04-2025",
+        "time": "12:49:44\u202fPM",
+        "price": 65.94,
+        "timestamp": "08-04-2025 at 12:49:44\u202fPM",
+        "type_of_day": 5
+    },
+    {
+        "id": null,
+        "ticker": "LULU",
+        "date": "08-04-2025",
+        "time": "12:49:44\u202fPM",
+        "price": 195.3,
+        "timestamp": "08-04-2025 at 12:49:44\u202fPM",
+        "type_of_day": 5
+    },
+    {
+        "id": null,
+        "ticker": "JPM",
+        "date": "08-04-2025",
+        "time": "12:49:44\u202fPM",
+        "price": 292.88,
+        "timestamp": "08-04-2025 at 12:49:44\u202fPM",
+        "type_of_day": 5
+    },
+    {
+        "id": null,
+        "ticker": "KO",
+        "date": "08-04-2025",
+        "time": "12:49:44\u202fPM",
+        "price": 68.81,
+        "timestamp": "08-04-2025 at 12:49:44\u202fPM",
+        "type_of_day": 5
+    },
+    {
+        "id": null,
+        "ticker": "CVX",
+        "date": "08-04-2025",
+        "time": "12:49:44\u202fPM",
+        "price": 149.88,
+        "timestamp": "08-04-2025 at 12:49:44\u202fPM",
+        "type_of_day": 5
+    },
+    {
+        "id": null,
+        "ticker": "VLO",
+        "date": "08-04-2025",
+        "time": "12:49:44\u202fPM",
+        "price": 133.9,
+        "timestamp": "08-04-2025 at 12:49:44\u202fPM",
+        "type_of_day": 5
+    },
+    {
+        "id": null,
+        "ticker": "TSLA",
+        "date": "08-04-2025",
+        "time": "12:49:44\u202fPM",
+        "price": 307.98,
+        "timestamp": "08-04-2025 at 12:49:44\u202fPM",
+        "type_of_day": 5
+    },
+    {
+        "id": null,
+        "ticker": "MSTR",
+        "date": "08-04-2025",
+        "time": "12:49:44\u202fPM",
+        "price": 386.5,
+        "timestamp": "08-04-2025 at 12:49:44\u202fPM",
+        "type_of_day": 5
+    },
+    {
+        "id": null,
+        "ticker": "WMT",
+        "date": "08-04-2025",
+        "time": "12:49:44\u202fPM",
+        "price": 99.56,
+        "timestamp": "08-04-2025 at 12:49:44\u202fPM",
+        "type_of_day": 5
+    },
+    {
+        "id": null,
+        "ticker": "ROST",
+        "date": "08-04-2025",
+        "time": "12:49:44\u202fPM",
+        "price": 141.22,
+        "timestamp": "08-04-2025 at 12:49:44\u202fPM",
+        "type_of_day": 5
+    },
+    {
+        "id": null,
+        "ticker": "BLK",
+        "date": "08-04-2025",
+        "time": "12:49:44\u202fPM",
+        "price": 1107.79,
+        "timestamp": "08-04-2025 at 12:49:44\u202fPM",
+        "type_of_day": 5
+    },
+    {
+        "id": null,
+        "ticker": "META",
+        "date": "08-04-2025",
+        "time": "12:49:44\u202fPM",
+        "price": 772.62,
+        "timestamp": "08-04-2025 at 12:49:44\u202fPM",
+        "type_of_day": 5
+    },
+    {
+        "id": null,
+        "ticker": "LYFT",
+        "date": "08-04-2025",
+        "time": "12:49:44\u202fPM",
+        "price": 14.21,
+        "timestamp": "08-04-2025 at 12:49:44\u202fPM",
+        "type_of_day": 5
+    },
+    {
+        "id": null,
+        "ticker": "UBER",
+        "date": "08-04-2025",
+        "time": "12:49:44\u202fPM",
+        "price": 88.12,
+        "timestamp": "08-04-2025 at 12:49:44\u202fPM",
+        "type_of_day": 5
+    },
+    {
+        "id": null,
+        "ticker": "PLUG",
+        "date": "08-04-2025",
+        "time": "12:49:44\u202fPM",
+        "price": 1.44,
+        "timestamp": "08-04-2025 at 12:49:44\u202fPM",
+        "type_of_day": 5
+    },
+    {
+        "id": null,
+        "ticker": "RGTI",
+        "date": "08-04-2025",
+        "time": "12:49:44\u202fPM",
+        "price": 15.3,
+        "timestamp": "08-04-2025 at 12:49:44\u202fPM",
+        "type_of_day": 5
+    },
+    {
+        "id": null,
+        "ticker": "BB",
+        "date": "08-04-2025",
+        "time": "12:49:44\u202fPM",
+        "price": 3.81,
+        "timestamp": "08-04-2025 at 12:49:44\u202fPM",
+        "type_of_day": 5
+    },
+    {
+        "id": null,
+        "ticker": "TLN",
+        "date": "08-04-2025",
+        "time": "12:49:44\u202fPM",
+        "price": 392.6,
+        "timestamp": "08-04-2025 at 12:49:44\u202fPM",
+        "type_of_day": 5
+    },
+    {
+        "id": null,
+        "ticker": "BBAI",
+        "date": "08-04-2025",
+        "time": "12:49:44\u202fPM",
+        "price": 7.21,
+        "timestamp": "08-04-2025 at 12:49:44\u202fPM",
+        "type_of_day": 5
+    },
+    {
+        "id": null,
+        "ticker": "SOUN",
+        "date": "08-04-2025",
+        "time": "12:49:44\u202fPM",
+        "price": 10.78,
+        "timestamp": "08-04-2025 at 12:49:44\u202fPM",
+        "type_of_day": 5
+    },
+    {
+        "id": null,
+        "ticker": "SOFI",
+        "date": "08-04-2025",
+        "time": "12:49:44\u202fPM",
+        "price": 21.33,
+        "timestamp": "08-04-2025 at 12:49:44\u202fPM",
+        "type_of_day": 5
+    },
+    {
+        "id": null,
+        "ticker": "LUV",
+        "date": "08-04-2025",
+        "time": "12:49:44\u202fPM",
+        "price": 29.75,
+        "timestamp": "08-04-2025 at 12:49:44\u202fPM",
+        "type_of_day": 5
+    },
+    {
+        "id": null,
+        "ticker": "AAL",
+        "date": "08-04-2025",
+        "time": "12:49:44\u202fPM",
+        "price": 11.25,
+        "timestamp": "08-04-2025 at 12:49:44\u202fPM",
+        "type_of_day": 5
+    },
+    {
+        "id": null,
+        "ticker": "AXP",
+        "date": "08-04-2025",
+        "time": "12:49:44\u202fPM",
+        "price": 297.78,
+        "timestamp": "08-04-2025 at 12:49:44\u202fPM",
+        "type_of_day": 5
+    },
+    {
+        "id": null,
+        "ticker": "TEAM",
+        "date": "08-04-2025",
+        "time": "12:49:44\u202fPM",
+        "price": 185.03,
+        "timestamp": "08-04-2025 at 12:49:44\u202fPM",
+        "type_of_day": 5
+    },
+    {
+        "id": null,
+        "ticker": "CMG",
+        "date": "08-04-2025",
+        "time": "12:49:44\u202fPM",
+        "price": 42.8,
+        "timestamp": "08-04-2025 at 12:49:44\u202fPM",
+        "type_of_day": 5
+    },
+    {
+        "id": null,
+        "ticker": "MDB",
+        "date": "08-04-2025",
+        "time": "12:49:44\u202fPM",
+        "price": 225.94,
+        "timestamp": "08-04-2025 at 12:49:44\u202fPM",
+        "type_of_day": 5
+    },
+    {
+        "id": null,
+        "ticker": "SG",
+        "date": "08-04-2025",
+        "time": "12:49:44\u202fPM",
+        "price": 12.36,
+        "timestamp": "08-04-2025 at 12:49:44\u202fPM",
+        "type_of_day": 5
+    },
+    {
+        "id": null,
+        "ticker": "KO",
+        "date": "08-04-2025",
+        "time": "12:49:44\u202fPM",
+        "price": 68.81,
+        "timestamp": "08-04-2025 at 12:49:44\u202fPM",
+        "type_of_day": 5
+    },
+    {
+        "id": null,
+        "ticker": "COST",
+        "date": "08-04-2025",
+        "time": "12:49:44\u202fPM",
+        "price": 949.84,
+        "timestamp": "08-04-2025 at 12:49:44\u202fPM",
+        "type_of_day": 5
+    },
+    {
+        "id": null,
+        "ticker": "GDDY",
+        "date": "08-04-2025",
+        "time": "12:49:44\u202fPM",
+        "price": 158.3,
+        "timestamp": "08-04-2025 at 12:49:44\u202fPM",
+        "type_of_day": 5
+    },
+    {
+        "id": null,
+        "ticker": "MAR",
+        "date": "08-04-2025",
+        "time": "12:49:44\u202fPM",
+        "price": 257.18,
+        "timestamp": "08-04-2025 at 12:49:44\u202fPM",
+        "type_of_day": 5
+    },
+    {
+        "id": null,
+        "ticker": "ALK",
+        "date": "08-04-2025",
+        "time": "12:49:44\u202fPM",
+        "price": 52.33,
+        "timestamp": "08-04-2025 at 12:49:44\u202fPM",
+        "type_of_day": 5
+    },
+    {
+        "id": null,
+        "ticker": "UAL",
+        "date": "08-04-2025",
+        "time": "12:49:44\u202fPM",
+        "price": 86.43,
+        "timestamp": "08-04-2025 at 12:49:44\u202fPM",
+        "type_of_day": 5
+    },
+    {
+        "id": null,
+        "ticker": "ZG",
+        "date": "08-04-2025",
+        "time": "12:49:44\u202fPM",
+        "price": 79.86,
+        "timestamp": "08-04-2025 at 12:49:44\u202fPM",
+        "type_of_day": 5
+    },
+    {
+        "id": null,
+        "ticker": "V",
+        "date": "08-04-2025",
+        "time": "12:49:44\u202fPM",
+        "price": 343.22,
+        "timestamp": "08-04-2025 at 12:49:44\u202fPM",
+        "type_of_day": 5
+    },
+    {
+        "id": null,
+        "ticker": "LYV",
+        "date": "08-04-2025",
+        "time": "12:49:44\u202fPM",
+        "price": 150.91,
+        "timestamp": "08-04-2025 at 12:49:44\u202fPM",
+        "type_of_day": 5
+    },
+    {
+        "id": null,
+        "ticker": "KRG",
+        "date": "08-04-2025",
+        "time": "12:49:44\u202fPM",
+        "price": 21.82,
+        "timestamp": "08-04-2025 at 12:49:44\u202fPM",
+        "type_of_day": 5
+    },
+    {
+        "id": null,
+        "ticker": "DAVE",
+        "date": "08-04-2025",
+        "time": "01:24:52\u202fPM",
+        "price": 245.41,
+        "timestamp": "08-04-2025 at 01:24:52\u202fPM",
+        "type_of_day": 6
+    },
+    {
+        "id": null,
+        "ticker": "CVNA",
+        "date": "08-04-2025",
+        "time": "01:24:52\u202fPM",
+        "price": 366.9,
+        "timestamp": "08-04-2025 at 01:24:52\u202fPM",
+        "type_of_day": 6
+    },
+    {
+        "id": null,
+        "ticker": "CGC",
+        "date": "08-04-2025",
+        "time": "01:24:52\u202fPM",
+        "price": 1.1,
+        "timestamp": "08-04-2025 at 01:24:52\u202fPM",
+        "type_of_day": 6
+    },
+    {
+        "id": null,
+        "ticker": "CMG",
+        "date": "08-04-2025",
+        "time": "01:24:52\u202fPM",
+        "price": 42.73,
+        "timestamp": "08-04-2025 at 01:24:52\u202fPM",
+        "type_of_day": 6
+    },
+    {
+        "id": null,
+        "ticker": "PLTR",
+        "date": "08-04-2025",
+        "time": "01:24:52\u202fPM",
+        "price": 160.22,
+        "timestamp": "08-04-2025 at 01:24:52\u202fPM",
+        "type_of_day": 6
+    },
+    {
+        "id": null,
+        "ticker": "XMTR",
+        "date": "08-04-2025",
+        "time": "01:24:52\u202fPM",
+        "price": 31.31,
+        "timestamp": "08-04-2025 at 01:24:52\u202fPM",
+        "type_of_day": 6
+    },
+    {
+        "id": null,
+        "ticker": "MCD",
+        "date": "08-04-2025",
+        "time": "01:24:52\u202fPM",
+        "price": 304.65,
+        "timestamp": "08-04-2025 at 01:24:52\u202fPM",
+        "type_of_day": 6
+    },
+    {
+        "id": null,
+        "ticker": "DNUT",
+        "date": "08-04-2025",
+        "time": "01:24:52\u202fPM",
+        "price": 3.68,
+        "timestamp": "08-04-2025 at 01:24:52\u202fPM",
+        "type_of_day": 6
+    },
+    {
+        "id": null,
+        "ticker": "SFM",
+        "date": "08-04-2025",
+        "time": "01:24:52\u202fPM",
+        "price": 155.59,
+        "timestamp": "08-04-2025 at 01:24:52\u202fPM",
+        "type_of_day": 6
+    },
+    {
+        "id": null,
+        "ticker": "LUMN",
+        "date": "08-04-2025",
+        "time": "01:24:52\u202fPM",
+        "price": 3.73,
+        "timestamp": "08-04-2025 at 01:24:52\u202fPM",
+        "type_of_day": 6
+    },
+    {
+        "id": null,
+        "ticker": "RCL",
+        "date": "08-04-2025",
+        "time": "01:24:52\u202fPM",
+        "price": 314.58,
+        "timestamp": "08-04-2025 at 01:24:52\u202fPM",
+        "type_of_day": 6
+    },
+    {
+        "id": null,
+        "ticker": "ZS",
+        "date": "08-04-2025",
+        "time": "01:24:52\u202fPM",
+        "price": 284.77,
+        "timestamp": "08-04-2025 at 01:24:52\u202fPM",
+        "type_of_day": 6
+    },
+    {
+        "id": null,
+        "ticker": "TLRY",
+        "date": "08-04-2025",
+        "time": "01:24:52\u202fPM",
+        "price": 0.6,
+        "timestamp": "08-04-2025 at 01:24:52\u202fPM",
+        "type_of_day": 6
+    },
+    {
+        "id": null,
+        "ticker": "PTON",
+        "date": "08-04-2025",
+        "time": "01:24:52\u202fPM",
+        "price": 6.85,
+        "timestamp": "08-04-2025 at 01:24:52\u202fPM",
+        "type_of_day": 6
+    },
+    {
+        "id": null,
+        "ticker": "DASH",
+        "date": "08-04-2025",
+        "time": "01:24:52\u202fPM",
+        "price": 258.55,
+        "timestamp": "08-04-2025 at 01:24:52\u202fPM",
+        "type_of_day": 6
+    },
+    {
+        "id": null,
+        "ticker": "OPEN",
+        "date": "08-04-2025",
+        "time": "01:24:52\u202fPM",
+        "price": 2.47,
+        "timestamp": "08-04-2025 at 01:24:52\u202fPM",
+        "type_of_day": 6
+    },
+    {
+        "id": null,
+        "ticker": "MBLY",
+        "date": "08-04-2025",
+        "time": "01:24:52\u202fPM",
+        "price": 13.97,
+        "timestamp": "08-04-2025 at 01:24:52\u202fPM",
+        "type_of_day": 6
+    },
+    {
+        "id": null,
+        "ticker": "MP",
+        "date": "08-04-2025",
+        "time": "01:24:52\u202fPM",
+        "price": 66.51,
+        "timestamp": "08-04-2025 at 01:24:52\u202fPM",
+        "type_of_day": 6
+    },
+    {
+        "id": null,
+        "ticker": "LULU",
+        "date": "08-04-2025",
+        "time": "01:24:52\u202fPM",
+        "price": 195.16,
+        "timestamp": "08-04-2025 at 01:24:52\u202fPM",
+        "type_of_day": 6
+    },
+    {
+        "id": null,
+        "ticker": "JPM",
+        "date": "08-04-2025",
+        "time": "01:24:52\u202fPM",
+        "price": 293.06,
+        "timestamp": "08-04-2025 at 01:24:52\u202fPM",
+        "type_of_day": 6
+    },
+    {
+        "id": null,
+        "ticker": "KO",
+        "date": "08-04-2025",
+        "time": "01:24:52\u202fPM",
+        "price": 68.9,
+        "timestamp": "08-04-2025 at 01:24:52\u202fPM",
+        "type_of_day": 6
+    },
+    {
+        "id": null,
+        "ticker": "CVX",
+        "date": "08-04-2025",
+        "time": "01:24:52\u202fPM",
+        "price": 150.3,
+        "timestamp": "08-04-2025 at 01:24:52\u202fPM",
+        "type_of_day": 6
+    },
+    {
+        "id": null,
+        "ticker": "VLO",
+        "date": "08-04-2025",
+        "time": "01:24:52\u202fPM",
+        "price": 134.44,
+        "timestamp": "08-04-2025 at 01:24:52\u202fPM",
+        "type_of_day": 6
+    },
+    {
+        "id": null,
+        "ticker": "TSLA",
+        "date": "08-04-2025",
+        "time": "01:24:52\u202fPM",
+        "price": 309.72,
+        "timestamp": "08-04-2025 at 01:24:52\u202fPM",
+        "type_of_day": 6
+    },
+    {
+        "id": null,
+        "ticker": "MSTR",
+        "date": "08-04-2025",
+        "time": "01:24:52\u202fPM",
+        "price": 388.11,
+        "timestamp": "08-04-2025 at 01:24:52\u202fPM",
+        "type_of_day": 6
+    },
+    {
+        "id": null,
+        "ticker": "WMT",
+        "date": "08-04-2025",
+        "time": "01:24:52\u202fPM",
+        "price": 99.72,
+        "timestamp": "08-04-2025 at 01:24:52\u202fPM",
+        "type_of_day": 6
+    },
+    {
+        "id": null,
+        "ticker": "ROST",
+        "date": "08-04-2025",
+        "time": "01:24:52\u202fPM",
+        "price": 141.37,
+        "timestamp": "08-04-2025 at 01:24:52\u202fPM",
+        "type_of_day": 6
+    },
+    {
+        "id": null,
+        "ticker": "BLK",
+        "date": "08-04-2025",
+        "time": "01:24:52\u202fPM",
+        "price": 1109.95,
+        "timestamp": "08-04-2025 at 01:24:52\u202fPM",
+        "type_of_day": 6
+    },
+    {
+        "id": null,
+        "ticker": "META",
+        "date": "08-04-2025",
+        "time": "01:24:52\u202fPM",
+        "price": 774.79,
+        "timestamp": "08-04-2025 at 01:24:52\u202fPM",
+        "type_of_day": 6
+    },
+    {
+        "id": null,
+        "ticker": "LYFT",
+        "date": "08-04-2025",
+        "time": "01:24:52\u202fPM",
+        "price": 14.17,
+        "timestamp": "08-04-2025 at 01:24:52\u202fPM",
+        "type_of_day": 6
+    },
+    {
+        "id": null,
+        "ticker": "UBER",
+        "date": "08-04-2025",
+        "time": "01:24:52\u202fPM",
+        "price": 88.5,
+        "timestamp": "08-04-2025 at 01:24:52\u202fPM",
+        "type_of_day": 6
+    },
+    {
+        "id": null,
+        "ticker": "PLUG",
+        "date": "08-04-2025",
+        "time": "01:24:52\u202fPM",
+        "price": 1.45,
+        "timestamp": "08-04-2025 at 01:24:52\u202fPM",
+        "type_of_day": 6
+    },
+    {
+        "id": null,
+        "ticker": "RGTI",
+        "date": "08-04-2025",
+        "time": "01:24:52\u202fPM",
+        "price": 15.68,
+        "timestamp": "08-04-2025 at 01:24:52\u202fPM",
+        "type_of_day": 6
+    },
+    {
+        "id": null,
+        "ticker": "BB",
+        "date": "08-04-2025",
+        "time": "01:24:52\u202fPM",
+        "price": 3.79,
+        "timestamp": "08-04-2025 at 01:24:52\u202fPM",
+        "type_of_day": 6
+    },
+    {
+        "id": null,
+        "ticker": "TLN",
+        "date": "08-04-2025",
+        "time": "01:24:52\u202fPM",
+        "price": 390.87,
+        "timestamp": "08-04-2025 at 01:24:52\u202fPM",
+        "type_of_day": 6
+    },
+    {
+        "id": null,
+        "ticker": "BBAI",
+        "date": "08-04-2025",
+        "time": "01:24:52\u202fPM",
+        "price": 7.17,
+        "timestamp": "08-04-2025 at 01:24:52\u202fPM",
+        "type_of_day": 6
+    },
+    {
+        "id": null,
+        "ticker": "SOUN",
+        "date": "08-04-2025",
+        "time": "01:24:52\u202fPM",
+        "price": 10.74,
+        "timestamp": "08-04-2025 at 01:24:52\u202fPM",
+        "type_of_day": 6
+    },
+    {
+        "id": null,
+        "ticker": "SOFI",
+        "date": "08-04-2025",
+        "time": "01:24:52\u202fPM",
+        "price": 21.46,
+        "timestamp": "08-04-2025 at 01:24:52\u202fPM",
+        "type_of_day": 6
+    },
+    {
+        "id": null,
+        "ticker": "LUV",
+        "date": "08-04-2025",
+        "time": "01:24:52\u202fPM",
+        "price": 29.76,
+        "timestamp": "08-04-2025 at 01:24:52\u202fPM",
+        "type_of_day": 6
+    },
+    {
+        "id": null,
+        "ticker": "AAL",
+        "date": "08-04-2025",
+        "time": "01:24:52\u202fPM",
+        "price": 11.25,
+        "timestamp": "08-04-2025 at 01:24:52\u202fPM",
+        "type_of_day": 6
+    },
+    {
+        "id": null,
+        "ticker": "AXP",
+        "date": "08-04-2025",
+        "time": "01:24:52\u202fPM",
+        "price": 297.68,
+        "timestamp": "08-04-2025 at 01:24:52\u202fPM",
+        "type_of_day": 6
+    },
+    {
+        "id": null,
+        "ticker": "TEAM",
+        "date": "08-04-2025",
+        "time": "01:24:52\u202fPM",
+        "price": 184.81,
+        "timestamp": "08-04-2025 at 01:24:52\u202fPM",
+        "type_of_day": 6
+    },
+    {
+        "id": null,
+        "ticker": "CMG",
+        "date": "08-04-2025",
+        "time": "01:24:52\u202fPM",
+        "price": 42.73,
+        "timestamp": "08-04-2025 at 01:24:52\u202fPM",
+        "type_of_day": 6
+    },
+    {
+        "id": null,
+        "ticker": "MDB",
+        "date": "08-04-2025",
+        "time": "01:24:52\u202fPM",
+        "price": 225.46,
+        "timestamp": "08-04-2025 at 01:24:52\u202fPM",
+        "type_of_day": 6
+    },
+    {
+        "id": null,
+        "ticker": "SG",
+        "date": "08-04-2025",
+        "time": "01:24:52\u202fPM",
+        "price": 12.33,
+        "timestamp": "08-04-2025 at 01:24:52\u202fPM",
+        "type_of_day": 6
+    },
+    {
+        "id": null,
+        "ticker": "KO",
+        "date": "08-04-2025",
+        "time": "01:24:52\u202fPM",
+        "price": 68.9,
+        "timestamp": "08-04-2025 at 01:24:52\u202fPM",
+        "type_of_day": 6
+    },
+    {
+        "id": null,
+        "ticker": "COST",
+        "date": "08-04-2025",
+        "time": "01:24:52\u202fPM",
+        "price": 950.85,
+        "timestamp": "08-04-2025 at 01:24:52\u202fPM",
+        "type_of_day": 6
+    },
+    {
+        "id": null,
+        "ticker": "GDDY",
+        "date": "08-04-2025",
+        "time": "01:24:52\u202fPM",
+        "price": 157.74,
+        "timestamp": "08-04-2025 at 01:24:52\u202fPM",
+        "type_of_day": 6
+    },
+    {
+        "id": null,
+        "ticker": "MAR",
+        "date": "08-04-2025",
+        "time": "01:24:52\u202fPM",
+        "price": 257.73,
+        "timestamp": "08-04-2025 at 01:24:52\u202fPM",
+        "type_of_day": 6
+    },
+    {
+        "id": null,
+        "ticker": "ALK",
+        "date": "08-04-2025",
+        "time": "01:24:52\u202fPM",
+        "price": 52.32,
+        "timestamp": "08-04-2025 at 01:24:52\u202fPM",
+        "type_of_day": 6
+    },
+    {
+        "id": null,
+        "ticker": "UAL",
+        "date": "08-04-2025",
+        "time": "01:24:52\u202fPM",
+        "price": 86.48,
+        "timestamp": "08-04-2025 at 01:24:52\u202fPM",
+        "type_of_day": 6
+    },
+    {
+        "id": null,
+        "ticker": "ZG",
+        "date": "08-04-2025",
+        "time": "01:24:52\u202fPM",
+        "price": 80.09,
+        "timestamp": "08-04-2025 at 01:24:52\u202fPM",
+        "type_of_day": 6
+    },
+    {
+        "id": null,
+        "ticker": "V",
+        "date": "08-04-2025",
+        "time": "01:24:52\u202fPM",
+        "price": 342.26,
+        "timestamp": "08-04-2025 at 01:24:52\u202fPM",
+        "type_of_day": 6
+    },
+    {
+        "id": null,
+        "ticker": "LYV",
+        "date": "08-04-2025",
+        "time": "01:24:52\u202fPM",
+        "price": 150.68,
+        "timestamp": "08-04-2025 at 01:24:52\u202fPM",
+        "type_of_day": 6
+    },
+    {
+        "id": null,
+        "ticker": "KRG",
+        "date": "08-04-2025",
+        "time": "01:24:52\u202fPM",
+        "price": 21.83,
+        "timestamp": "08-04-2025 at 01:24:52\u202fPM",
+        "type_of_day": 6
+    },
+    {
+        "id": null,
+        "ticker": "DAVE",
+        "date": "08-04-2025",
+        "time": "02:57:15\u202fPM",
+        "price": 245.1,
+        "timestamp": "08-04-2025 at 02:57:15\u202fPM",
+        "type_of_day": 7
+    },
+    {
+        "id": null,
+        "ticker": "CVNA",
+        "date": "08-04-2025",
+        "time": "02:57:15\u202fPM",
+        "price": 360.87,
+        "timestamp": "08-04-2025 at 02:57:15\u202fPM",
+        "type_of_day": 7
+    },
+    {
+        "id": null,
+        "ticker": "CGC",
+        "date": "08-04-2025",
+        "time": "02:57:15\u202fPM",
+        "price": 1.11,
+        "timestamp": "08-04-2025 at 02:57:15\u202fPM",
+        "type_of_day": 7
+    },
+    {
+        "id": null,
+        "ticker": "CMG",
+        "date": "08-04-2025",
+        "time": "02:57:15\u202fPM",
+        "price": 42.82,
+        "timestamp": "08-04-2025 at 02:57:15\u202fPM",
+        "type_of_day": 7
+    },
+    {
+        "id": null,
+        "ticker": "PLTR",
+        "date": "08-04-2025",
+        "time": "02:57:15\u202fPM",
+        "price": 160.56,
+        "timestamp": "08-04-2025 at 02:57:15\u202fPM",
+        "type_of_day": 7
+    },
+    {
+        "id": null,
+        "ticker": "XMTR",
+        "date": "08-04-2025",
+        "time": "02:57:15\u202fPM",
+        "price": 30.98,
+        "timestamp": "08-04-2025 at 02:57:15\u202fPM",
+        "type_of_day": 7
+    },
+    {
+        "id": null,
+        "ticker": "MCD",
+        "date": "08-04-2025",
+        "time": "02:57:15\u202fPM",
+        "price": 304.2,
+        "timestamp": "08-04-2025 at 02:57:15\u202fPM",
+        "type_of_day": 7
+    },
+    {
+        "id": null,
+        "ticker": "DNUT",
+        "date": "08-04-2025",
+        "time": "02:57:15\u202fPM",
+        "price": 3.66,
+        "timestamp": "08-04-2025 at 02:57:15\u202fPM",
+        "type_of_day": 7
+    },
+    {
+        "id": null,
+        "ticker": "SFM",
+        "date": "08-04-2025",
+        "time": "02:57:15\u202fPM",
+        "price": 153.72,
+        "timestamp": "08-04-2025 at 02:57:15\u202fPM",
+        "type_of_day": 7
+    },
+    {
+        "id": null,
+        "ticker": "LUMN",
+        "date": "08-04-2025",
+        "time": "02:57:15\u202fPM",
+        "price": 3.76,
+        "timestamp": "08-04-2025 at 02:57:15\u202fPM",
+        "type_of_day": 7
+    },
+    {
+        "id": null,
+        "ticker": "RCL",
+        "date": "08-04-2025",
+        "time": "02:57:15\u202fPM",
+        "price": 315.15,
+        "timestamp": "08-04-2025 at 02:57:15\u202fPM",
+        "type_of_day": 7
+    },
+    {
+        "id": null,
+        "ticker": "ZS",
+        "date": "08-04-2025",
+        "time": "02:57:15\u202fPM",
+        "price": 285.24,
+        "timestamp": "08-04-2025 at 02:57:15\u202fPM",
+        "type_of_day": 7
+    },
+    {
+        "id": null,
+        "ticker": "TLRY",
+        "date": "08-04-2025",
+        "time": "02:57:15\u202fPM",
+        "price": 0.61,
+        "timestamp": "08-04-2025 at 02:57:15\u202fPM",
+        "type_of_day": 7
+    },
+    {
+        "id": null,
+        "ticker": "PTON",
+        "date": "08-04-2025",
+        "time": "02:57:15\u202fPM",
+        "price": 6.93,
+        "timestamp": "08-04-2025 at 02:57:15\u202fPM",
+        "type_of_day": 7
+    },
+    {
+        "id": null,
+        "ticker": "DASH",
+        "date": "08-04-2025",
+        "time": "02:57:15\u202fPM",
+        "price": 257.64,
+        "timestamp": "08-04-2025 at 02:57:15\u202fPM",
+        "type_of_day": 7
+    },
+    {
+        "id": null,
+        "ticker": "OPEN",
+        "date": "08-04-2025",
+        "time": "02:57:15\u202fPM",
+        "price": 2.45,
+        "timestamp": "08-04-2025 at 02:57:15\u202fPM",
+        "type_of_day": 7
+    },
+    {
+        "id": null,
+        "ticker": "MBLY",
+        "date": "08-04-2025",
+        "time": "02:57:15\u202fPM",
+        "price": 14.04,
+        "timestamp": "08-04-2025 at 02:57:15\u202fPM",
+        "type_of_day": 7
+    },
+    {
+        "id": null,
+        "ticker": "MP",
+        "date": "08-04-2025",
+        "time": "02:57:15\u202fPM",
+        "price": 65.58,
+        "timestamp": "08-04-2025 at 02:57:15\u202fPM",
+        "type_of_day": 7
+    },
+    {
+        "id": null,
+        "ticker": "LULU",
+        "date": "08-04-2025",
+        "time": "02:57:15\u202fPM",
+        "price": 196.53,
+        "timestamp": "08-04-2025 at 02:57:15\u202fPM",
+        "type_of_day": 7
+    },
+    {
+        "id": null,
+        "ticker": "JPM",
+        "date": "08-04-2025",
+        "time": "02:57:15\u202fPM",
+        "price": 294.13,
+        "timestamp": "08-04-2025 at 02:57:15\u202fPM",
+        "type_of_day": 7
+    },
+    {
+        "id": null,
+        "ticker": "KO",
+        "date": "08-04-2025",
+        "time": "02:57:15\u202fPM",
+        "price": 68.96,
+        "timestamp": "08-04-2025 at 02:57:15\u202fPM",
+        "type_of_day": 7
+    },
+    {
+        "id": null,
+        "ticker": "CVX",
+        "date": "08-04-2025",
+        "time": "02:57:15\u202fPM",
+        "price": 150.81,
+        "timestamp": "08-04-2025 at 02:57:15\u202fPM",
+        "type_of_day": 7
+    },
+    {
+        "id": null,
+        "ticker": "VLO",
+        "date": "08-04-2025",
+        "time": "02:57:15\u202fPM",
+        "price": 135.34,
+        "timestamp": "08-04-2025 at 02:57:15\u202fPM",
+        "type_of_day": 7
+    },
+    {
+        "id": null,
+        "ticker": "TSLA",
+        "date": "08-04-2025",
+        "time": "02:57:15\u202fPM",
+        "price": 309.76,
+        "timestamp": "08-04-2025 at 02:57:15\u202fPM",
+        "type_of_day": 7
+    },
+    {
+        "id": null,
+        "ticker": "MSTR",
+        "date": "08-04-2025",
+        "time": "02:57:15\u202fPM",
+        "price": 389.21,
+        "timestamp": "08-04-2025 at 02:57:15\u202fPM",
+        "type_of_day": 7
+    },
+    {
+        "id": null,
+        "ticker": "WMT",
+        "date": "08-04-2025",
+        "time": "02:57:15\u202fPM",
+        "price": 99.53,
+        "timestamp": "08-04-2025 at 02:57:15\u202fPM",
+        "type_of_day": 7
+    },
+    {
+        "id": null,
+        "ticker": "ROST",
+        "date": "08-04-2025",
+        "time": "02:57:15\u202fPM",
+        "price": 141.94,
+        "timestamp": "08-04-2025 at 02:57:15\u202fPM",
+        "type_of_day": 7
+    },
+    {
+        "id": null,
+        "ticker": "BLK",
+        "date": "08-04-2025",
+        "time": "02:57:15\u202fPM",
+        "price": 1114.98,
+        "timestamp": "08-04-2025 at 02:57:15\u202fPM",
+        "type_of_day": 7
+    },
+    {
+        "id": null,
+        "ticker": "META",
+        "date": "08-04-2025",
+        "time": "02:57:15\u202fPM",
+        "price": 775.86,
+        "timestamp": "08-04-2025 at 02:57:15\u202fPM",
+        "type_of_day": 7
+    },
+    {
+        "id": null,
+        "ticker": "LYFT",
+        "date": "08-04-2025",
+        "time": "02:57:15\u202fPM",
+        "price": 14.08,
+        "timestamp": "08-04-2025 at 02:57:15\u202fPM",
+        "type_of_day": 7
+    },
+    {
+        "id": null,
+        "ticker": "UBER",
+        "date": "08-04-2025",
+        "time": "02:57:15\u202fPM",
+        "price": 88.51,
+        "timestamp": "08-04-2025 at 02:57:15\u202fPM",
+        "type_of_day": 7
+    },
+    {
+        "id": null,
+        "ticker": "PLUG",
+        "date": "08-04-2025",
+        "time": "02:57:15\u202fPM",
+        "price": 1.46,
+        "timestamp": "08-04-2025 at 02:57:15\u202fPM",
+        "type_of_day": 7
+    },
+    {
+        "id": null,
+        "ticker": "RGTI",
+        "date": "08-04-2025",
+        "time": "02:57:15\u202fPM",
+        "price": 15.74,
+        "timestamp": "08-04-2025 at 02:57:15\u202fPM",
+        "type_of_day": 7
+    },
+    {
+        "id": null,
+        "ticker": "BB",
+        "date": "08-04-2025",
+        "time": "02:57:15\u202fPM",
+        "price": 3.76,
+        "timestamp": "08-04-2025 at 02:57:15\u202fPM",
+        "type_of_day": 7
+    },
+    {
+        "id": null,
+        "ticker": "TLN",
+        "date": "08-04-2025",
+        "time": "02:57:15\u202fPM",
+        "price": 389.77,
+        "timestamp": "08-04-2025 at 02:57:15\u202fPM",
+        "type_of_day": 7
+    },
+    {
+        "id": null,
+        "ticker": "BBAI",
+        "date": "08-04-2025",
+        "time": "02:57:15\u202fPM",
+        "price": 7.11,
+        "timestamp": "08-04-2025 at 02:57:15\u202fPM",
+        "type_of_day": 7
+    },
+    {
+        "id": null,
+        "ticker": "SOUN",
+        "date": "08-04-2025",
+        "time": "02:57:15\u202fPM",
+        "price": 10.63,
+        "timestamp": "08-04-2025 at 02:57:15\u202fPM",
+        "type_of_day": 7
+    },
+    {
+        "id": null,
+        "ticker": "SOFI",
+        "date": "08-04-2025",
+        "time": "02:57:15\u202fPM",
+        "price": 21.81,
+        "timestamp": "08-04-2025 at 02:57:15\u202fPM",
+        "type_of_day": 7
+    },
+    {
+        "id": null,
+        "ticker": "LUV",
+        "date": "08-04-2025",
+        "time": "02:57:15\u202fPM",
+        "price": 29.81,
+        "timestamp": "08-04-2025 at 02:57:15\u202fPM",
+        "type_of_day": 7
+    },
+    {
+        "id": null,
+        "ticker": "AAL",
+        "date": "08-04-2025",
+        "time": "02:57:15\u202fPM",
+        "price": 11.28,
+        "timestamp": "08-04-2025 at 02:57:15\u202fPM",
+        "type_of_day": 7
+    },
+    {
+        "id": null,
+        "ticker": "AXP",
+        "date": "08-04-2025",
+        "time": "02:57:15\u202fPM",
+        "price": 298.52,
+        "timestamp": "08-04-2025 at 02:57:15\u202fPM",
+        "type_of_day": 7
+    },
+    {
+        "id": null,
+        "ticker": "TEAM",
+        "date": "08-04-2025",
+        "time": "02:57:15\u202fPM",
+        "price": 185.33,
+        "timestamp": "08-04-2025 at 02:57:15\u202fPM",
+        "type_of_day": 7
+    },
+    {
+        "id": null,
+        "ticker": "CMG",
+        "date": "08-04-2025",
+        "time": "02:57:15\u202fPM",
+        "price": 42.82,
+        "timestamp": "08-04-2025 at 02:57:15\u202fPM",
+        "type_of_day": 7
+    },
+    {
+        "id": null,
+        "ticker": "MDB",
+        "date": "08-04-2025",
+        "time": "02:57:15\u202fPM",
+        "price": 226.56,
+        "timestamp": "08-04-2025 at 02:57:15\u202fPM",
+        "type_of_day": 7
+    },
+    {
+        "id": null,
+        "ticker": "SG",
+        "date": "08-04-2025",
+        "time": "02:57:15\u202fPM",
+        "price": 12.46,
+        "timestamp": "08-04-2025 at 02:57:15\u202fPM",
+        "type_of_day": 7
+    },
+    {
+        "id": null,
+        "ticker": "KO",
+        "date": "08-04-2025",
+        "time": "02:57:15\u202fPM",
+        "price": 68.96,
+        "timestamp": "08-04-2025 at 02:57:15\u202fPM",
+        "type_of_day": 7
+    },
+    {
+        "id": null,
+        "ticker": "COST",
+        "date": "08-04-2025",
+        "time": "02:57:15\u202fPM",
+        "price": 954.66,
+        "timestamp": "08-04-2025 at 02:57:15\u202fPM",
+        "type_of_day": 7
+    },
+    {
+        "id": null,
+        "ticker": "GDDY",
+        "date": "08-04-2025",
+        "time": "02:57:15\u202fPM",
+        "price": 157.89,
+        "timestamp": "08-04-2025 at 02:57:15\u202fPM",
+        "type_of_day": 7
+    },
+    {
+        "id": null,
+        "ticker": "MAR",
+        "date": "08-04-2025",
+        "time": "02:57:15\u202fPM",
+        "price": 258.73,
+        "timestamp": "08-04-2025 at 02:57:15\u202fPM",
+        "type_of_day": 7
+    },
+    {
+        "id": null,
+        "ticker": "ALK",
+        "date": "08-04-2025",
+        "time": "02:57:15\u202fPM",
+        "price": 52.59,
+        "timestamp": "08-04-2025 at 02:57:15\u202fPM",
+        "type_of_day": 7
+    },
+    {
+        "id": null,
+        "ticker": "UAL",
+        "date": "08-04-2025",
+        "time": "02:57:15\u202fPM",
+        "price": 87.11,
+        "timestamp": "08-04-2025 at 02:57:15\u202fPM",
+        "type_of_day": 7
+    },
+    {
+        "id": null,
+        "ticker": "ZG",
+        "date": "08-04-2025",
+        "time": "02:57:15\u202fPM",
+        "price": 80.31,
+        "timestamp": "08-04-2025 at 02:57:15\u202fPM",
+        "type_of_day": 7
+    },
+    {
+        "id": null,
+        "ticker": "V",
+        "date": "08-04-2025",
+        "time": "02:57:15\u202fPM",
+        "price": 342.25,
+        "timestamp": "08-04-2025 at 02:57:15\u202fPM",
+        "type_of_day": 7
+    },
+    {
+        "id": null,
+        "ticker": "LYV",
+        "date": "08-04-2025",
+        "time": "02:57:15\u202fPM",
+        "price": 151.37,
+        "timestamp": "08-04-2025 at 02:57:15\u202fPM",
+        "type_of_day": 7
+    },
+    {
+        "id": null,
+        "ticker": "KRG",
+        "date": "08-04-2025",
+        "time": "02:57:15\u202fPM",
+        "price": 21.86,
+        "timestamp": "08-04-2025 at 02:57:15\u202fPM",
+        "type_of_day": 7
+    },
+    {
+        "id": null,
+        "ticker": "DAVE",
+        "date": "08-04-2025",
+        "time": "04:28:12\u202fPM",
+        "price": 245.51,
+        "timestamp": "08-04-2025 at 04:28:12\u202fPM",
+        "type_of_day": 8
+    },
+    {
+        "id": null,
+        "ticker": "CVNA",
+        "date": "08-04-2025",
+        "time": "04:28:12\u202fPM",
+        "price": 360.66,
+        "timestamp": "08-04-2025 at 04:28:12\u202fPM",
+        "type_of_day": 8
+    },
+    {
+        "id": null,
+        "ticker": "CGC",
+        "date": "08-04-2025",
+        "time": "04:28:12\u202fPM",
+        "price": 1.1,
+        "timestamp": "08-04-2025 at 04:28:12\u202fPM",
+        "type_of_day": 8
+    },
+    {
+        "id": null,
+        "ticker": "CMG",
+        "date": "08-04-2025",
+        "time": "04:28:12\u202fPM",
+        "price": 42.88,
+        "timestamp": "08-04-2025 at 04:28:12\u202fPM",
+        "type_of_day": 8
+    },
+    {
+        "id": null,
+        "ticker": "PLTR",
+        "date": "08-04-2025",
+        "time": "04:28:12\u202fPM",
+        "price": 160.66,
+        "timestamp": "08-04-2025 at 04:28:12\u202fPM",
+        "type_of_day": 8
+    },
+    {
+        "id": null,
+        "ticker": "XMTR",
+        "date": "08-04-2025",
+        "time": "04:28:12\u202fPM",
+        "price": 30.97,
+        "timestamp": "08-04-2025 at 04:28:12\u202fPM",
+        "type_of_day": 8
+    },
+    {
+        "id": null,
+        "ticker": "MCD",
+        "date": "08-04-2025",
+        "time": "04:28:12\u202fPM",
+        "price": 304.23,
+        "timestamp": "08-04-2025 at 04:28:12\u202fPM",
+        "type_of_day": 8
+    },
+    {
+        "id": null,
+        "ticker": "DNUT",
+        "date": "08-04-2025",
+        "time": "04:28:12\u202fPM",
+        "price": 3.65,
+        "timestamp": "08-04-2025 at 04:28:12\u202fPM",
+        "type_of_day": 8
+    },
+    {
+        "id": null,
+        "ticker": "SFM",
+        "date": "08-04-2025",
+        "time": "04:28:12\u202fPM",
+        "price": 153.81,
+        "timestamp": "08-04-2025 at 04:28:12\u202fPM",
+        "type_of_day": 8
+    },
+    {
+        "id": null,
+        "ticker": "LUMN",
+        "date": "08-04-2025",
+        "time": "04:28:12\u202fPM",
+        "price": 3.75,
+        "timestamp": "08-04-2025 at 04:28:12\u202fPM",
+        "type_of_day": 8
+    },
+    {
+        "id": null,
+        "ticker": "RCL",
+        "date": "08-04-2025",
+        "time": "04:28:12\u202fPM",
+        "price": 315.7,
+        "timestamp": "08-04-2025 at 04:28:12\u202fPM",
+        "type_of_day": 8
+    },
+    {
+        "id": null,
+        "ticker": "ZS",
+        "date": "08-04-2025",
+        "time": "04:28:12\u202fPM",
+        "price": 285.86,
+        "timestamp": "08-04-2025 at 04:28:12\u202fPM",
+        "type_of_day": 8
+    },
+    {
+        "id": null,
+        "ticker": "TLRY",
+        "date": "08-04-2025",
+        "time": "04:28:12\u202fPM",
+        "price": 0.61,
+        "timestamp": "08-04-2025 at 04:28:12\u202fPM",
+        "type_of_day": 8
+    },
+    {
+        "id": null,
+        "ticker": "PTON",
+        "date": "08-04-2025",
+        "time": "04:28:12\u202fPM",
+        "price": 6.96,
+        "timestamp": "08-04-2025 at 04:28:12\u202fPM",
+        "type_of_day": 8
+    },
+    {
+        "id": null,
+        "ticker": "DASH",
+        "date": "08-04-2025",
+        "time": "04:28:12\u202fPM",
+        "price": 258.02,
+        "timestamp": "08-04-2025 at 04:28:12\u202fPM",
+        "type_of_day": 8
+    },
+    {
+        "id": null,
+        "ticker": "OPEN",
+        "date": "08-04-2025",
+        "time": "04:28:12\u202fPM",
+        "price": 2.46,
+        "timestamp": "08-04-2025 at 04:28:12\u202fPM",
+        "type_of_day": 8
+    },
+    {
+        "id": null,
+        "ticker": "MBLY",
+        "date": "08-04-2025",
+        "time": "04:28:12\u202fPM",
+        "price": 14.09,
+        "timestamp": "08-04-2025 at 04:28:12\u202fPM",
+        "type_of_day": 8
+    },
+    {
+        "id": null,
+        "ticker": "MP",
+        "date": "08-04-2025",
+        "time": "04:28:12\u202fPM",
+        "price": 65.42,
+        "timestamp": "08-04-2025 at 04:28:12\u202fPM",
+        "type_of_day": 8
+    },
+    {
+        "id": null,
+        "ticker": "LULU",
+        "date": "08-04-2025",
+        "time": "04:28:12\u202fPM",
+        "price": 196.45,
+        "timestamp": "08-04-2025 at 04:28:12\u202fPM",
+        "type_of_day": 8
+    },
+    {
+        "id": null,
+        "ticker": "JPM",
+        "date": "08-04-2025",
+        "time": "04:28:12\u202fPM",
+        "price": 294.26,
+        "timestamp": "08-04-2025 at 04:28:12\u202fPM",
+        "type_of_day": 8
+    },
+    {
+        "id": null,
+        "ticker": "KO",
+        "date": "08-04-2025",
+        "time": "04:28:12\u202fPM",
+        "price": 68.96,
+        "timestamp": "08-04-2025 at 04:28:12\u202fPM",
+        "type_of_day": 8
+    },
+    {
+        "id": null,
+        "ticker": "CVX",
+        "date": "08-04-2025",
+        "time": "04:28:12\u202fPM",
+        "price": 151.04,
+        "timestamp": "08-04-2025 at 04:28:12\u202fPM",
+        "type_of_day": 8
+    },
+    {
+        "id": null,
+        "ticker": "VLO",
+        "date": "08-04-2025",
+        "time": "04:28:12\u202fPM",
+        "price": 135.04,
+        "timestamp": "08-04-2025 at 04:28:12\u202fPM",
+        "type_of_day": 8
+    },
+    {
+        "id": null,
+        "ticker": "TSLA",
+        "date": "08-04-2025",
+        "time": "04:28:12\u202fPM",
+        "price": 309.26,
+        "timestamp": "08-04-2025 at 04:28:12\u202fPM",
+        "type_of_day": 8
+    },
+    {
+        "id": null,
+        "ticker": "MSTR",
+        "date": "08-04-2025",
+        "time": "04:28:12\u202fPM",
+        "price": 389.24,
+        "timestamp": "08-04-2025 at 04:28:12\u202fPM",
+        "type_of_day": 8
+    },
+    {
+        "id": null,
+        "ticker": "WMT",
+        "date": "08-04-2025",
+        "time": "04:28:12\u202fPM",
+        "price": 99.59,
+        "timestamp": "08-04-2025 at 04:28:12\u202fPM",
+        "type_of_day": 8
+    },
+    {
+        "id": null,
+        "ticker": "ROST",
+        "date": "08-04-2025",
+        "time": "04:28:12\u202fPM",
+        "price": 141.97,
+        "timestamp": "08-04-2025 at 04:28:12\u202fPM",
+        "type_of_day": 8
+    },
+    {
+        "id": null,
+        "ticker": "BLK",
+        "date": "08-04-2025",
+        "time": "04:28:12\u202fPM",
+        "price": 1116.06,
+        "timestamp": "08-04-2025 at 04:28:12\u202fPM",
+        "type_of_day": 8
+    },
+    {
+        "id": null,
+        "ticker": "META",
+        "date": "08-04-2025",
+        "time": "04:28:12\u202fPM",
+        "price": 776.37,
+        "timestamp": "08-04-2025 at 04:28:12\u202fPM",
+        "type_of_day": 8
+    },
+    {
+        "id": null,
+        "ticker": "LYFT",
+        "date": "08-04-2025",
+        "time": "04:28:12\u202fPM",
+        "price": 14.08,
+        "timestamp": "08-04-2025 at 04:28:12\u202fPM",
+        "type_of_day": 8
+    },
+    {
+        "id": null,
+        "ticker": "UBER",
+        "date": "08-04-2025",
+        "time": "04:28:12\u202fPM",
+        "price": 88.43,
+        "timestamp": "08-04-2025 at 04:28:12\u202fPM",
+        "type_of_day": 8
+    },
+    {
+        "id": null,
+        "ticker": "PLUG",
+        "date": "08-04-2025",
+        "time": "04:28:12\u202fPM",
+        "price": 1.45,
+        "timestamp": "08-04-2025 at 04:28:12\u202fPM",
+        "type_of_day": 8
+    },
+    {
+        "id": null,
+        "ticker": "RGTI",
+        "date": "08-04-2025",
+        "time": "04:28:12\u202fPM",
+        "price": 15.76,
+        "timestamp": "08-04-2025 at 04:28:12\u202fPM",
+        "type_of_day": 8
+    },
+    {
+        "id": null,
+        "ticker": "BB",
+        "date": "08-04-2025",
+        "time": "04:28:12\u202fPM",
+        "price": 3.77,
+        "timestamp": "08-04-2025 at 04:28:12\u202fPM",
+        "type_of_day": 8
+    },
+    {
+        "id": null,
+        "ticker": "TLN",
+        "date": "08-04-2025",
+        "time": "04:28:12\u202fPM",
+        "price": 390.68,
+        "timestamp": "08-04-2025 at 04:28:12\u202fPM",
+        "type_of_day": 8
+    },
+    {
+        "id": null,
+        "ticker": "BBAI",
+        "date": "08-04-2025",
+        "time": "04:28:12\u202fPM",
+        "price": 7.09,
+        "timestamp": "08-04-2025 at 04:28:12\u202fPM",
+        "type_of_day": 8
+    },
+    {
+        "id": null,
+        "ticker": "SOUN",
+        "date": "08-04-2025",
+        "time": "04:28:12\u202fPM",
+        "price": 10.64,
+        "timestamp": "08-04-2025 at 04:28:12\u202fPM",
+        "type_of_day": 8
+    },
+    {
+        "id": null,
+        "ticker": "SOFI",
+        "date": "08-04-2025",
+        "time": "04:28:12\u202fPM",
+        "price": 21.81,
+        "timestamp": "08-04-2025 at 04:28:12\u202fPM",
+        "type_of_day": 8
+    },
+    {
+        "id": null,
+        "ticker": "LUV",
+        "date": "08-04-2025",
+        "time": "04:28:12\u202fPM",
+        "price": 29.75,
+        "timestamp": "08-04-2025 at 04:28:12\u202fPM",
+        "type_of_day": 8
+    },
+    {
+        "id": null,
+        "ticker": "AAL",
+        "date": "08-04-2025",
+        "time": "04:28:12\u202fPM",
+        "price": 11.27,
+        "timestamp": "08-04-2025 at 04:28:12\u202fPM",
+        "type_of_day": 8
+    },
+    {
+        "id": null,
+        "ticker": "AXP",
+        "date": "08-04-2025",
+        "time": "04:28:12\u202fPM",
+        "price": 298.59,
+        "timestamp": "08-04-2025 at 04:28:12\u202fPM",
+        "type_of_day": 8
+    },
+    {
+        "id": null,
+        "ticker": "TEAM",
+        "date": "08-04-2025",
+        "time": "04:28:12\u202fPM",
+        "price": 185.69,
+        "timestamp": "08-04-2025 at 04:28:12\u202fPM",
+        "type_of_day": 8
+    },
+    {
+        "id": null,
+        "ticker": "CMG",
+        "date": "08-04-2025",
+        "time": "04:28:12\u202fPM",
+        "price": 42.88,
+        "timestamp": "08-04-2025 at 04:28:12\u202fPM",
+        "type_of_day": 8
+    },
+    {
+        "id": null,
+        "ticker": "MDB",
+        "date": "08-04-2025",
+        "time": "04:28:12\u202fPM",
+        "price": 226.56,
+        "timestamp": "08-04-2025 at 04:28:12\u202fPM",
+        "type_of_day": 8
+    },
+    {
+        "id": null,
+        "ticker": "SG",
+        "date": "08-04-2025",
+        "time": "04:28:12\u202fPM",
+        "price": 12.42,
+        "timestamp": "08-04-2025 at 04:28:12\u202fPM",
+        "type_of_day": 8
+    },
+    {
+        "id": null,
+        "ticker": "KO",
+        "date": "08-04-2025",
+        "time": "04:28:12\u202fPM",
+        "price": 68.96,
+        "timestamp": "08-04-2025 at 04:28:12\u202fPM",
+        "type_of_day": 8
+    },
+    {
+        "id": null,
+        "ticker": "COST",
+        "date": "08-04-2025",
+        "time": "04:28:12\u202fPM",
+        "price": 955.37,
+        "timestamp": "08-04-2025 at 04:28:12\u202fPM",
+        "type_of_day": 8
+    },
+    {
+        "id": null,
+        "ticker": "GDDY",
+        "date": "08-04-2025",
+        "time": "04:28:12\u202fPM",
+        "price": 158.15,
+        "timestamp": "08-04-2025 at 04:28:12\u202fPM",
+        "type_of_day": 8
+    },
+    {
+        "id": null,
+        "ticker": "MAR",
+        "date": "08-04-2025",
+        "time": "04:28:12\u202fPM",
+        "price": 259.13,
+        "timestamp": "08-04-2025 at 04:28:12\u202fPM",
+        "type_of_day": 8
+    },
+    {
+        "id": null,
+        "ticker": "ALK",
+        "date": "08-04-2025",
+        "time": "04:28:12\u202fPM",
+        "price": 52.58,
+        "timestamp": "08-04-2025 at 04:28:12\u202fPM",
+        "type_of_day": 8
+    },
+    {
+        "id": null,
+        "ticker": "UAL",
+        "date": "08-04-2025",
+        "time": "04:28:12\u202fPM",
+        "price": 87.01,
+        "timestamp": "08-04-2025 at 04:28:12\u202fPM",
+        "type_of_day": 8
+    },
+    {
+        "id": null,
+        "ticker": "ZG",
+        "date": "08-04-2025",
+        "time": "04:28:12\u202fPM",
+        "price": 80.39,
+        "timestamp": "08-04-2025 at 04:28:12\u202fPM",
+        "type_of_day": 8
+    },
+    {
+        "id": null,
+        "ticker": "V",
+        "date": "08-04-2025",
+        "time": "04:28:12\u202fPM",
+        "price": 342.15,
+        "timestamp": "08-04-2025 at 04:28:12\u202fPM",
+        "type_of_day": 8
+    },
+    {
+        "id": null,
+        "ticker": "LYV",
+        "date": "08-04-2025",
+        "time": "04:28:12\u202fPM",
+        "price": 151.29,
+        "timestamp": "08-04-2025 at 04:28:12\u202fPM",
+        "type_of_day": 8
+    },
+    {
+        "id": null,
+        "ticker": "KRG",
+        "date": "08-04-2025",
+        "time": "04:28:12\u202fPM",
+        "price": 21.81,
+        "timestamp": "08-04-2025 at 04:28:12\u202fPM",
+        "type_of_day": 8
+    },
+    {
+        "id": null,
+        "ticker": "DAVE",
         "date": "08-01-2025",
         "time": "08:47:56\u202fAM",
         "price": 222.5,
